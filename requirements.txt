@@ -1,0 +1,13 @@
+# Core dependencies
+tkinter
+# For potential web version
+# flask
+# flask-login
+
+# Security testing
+bandit
+safety
+
+# Testing
+pytest
+pytest-cov

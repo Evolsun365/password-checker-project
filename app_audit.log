@@ -1,0 +1,61 @@
+========================================================== 
+[INFO] Starting DevSecOps automation... 
+Timestamp: Wed 08/10/2025 14:21:35.99 
+========================================================== 
+[INFO] Virtual environment already exists. Skipping creation. 
+[SETUP] Virtual environment activated. 
+[INSTALL] Upgrading base tools... 
+Requirement already satisfied: pip in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (25.2)
+Requirement already satisfied: setuptools in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (80.9.0)
+Requirement already satisfied: wheel in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (0.45.1)
+[INSTALL] Installing dependencies from requirements.txt... 
+ERROR: Could not find a version that satisfies the requirement tkinter (from versions: none)
+ERROR: No matching distribution found for tkinter
+[CHECK] Verifying pbr installation... 
+[INFO] pbr already installed. 
+[CHECK] Verifying bandit installation... 
+[INFO] bandit already installed. 
+[CHECK] Verifying pytest installation... 
+[INFO] pytest already installed. 
+[CHECK] Verifying pip-audit installation... 
+[INFO] pip-audit already installed. 
+[SECURITY] Running Bandit static analysis... 
+[main]	INFO	profile include tests: None
+[main]	INFO	profile exclude tests: None
+[main]	INFO	cli include tests: None
+[main]	INFO	cli exclude tests: None
+[main]	INFO	running on Python 3.13.7
+[manager]	WARNING	Test in comment: _lines is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: is is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: a is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: dict is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: of is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: line is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: number is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: set is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: of is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: tests is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: to is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: ignore is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: tkelsey is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: catching is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: expected is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: exception is not a test name or id, ignoring
+[tester]	WARNING	nosec encountered (B108), but no failed test on line 61
+[manager]	WARNING	Test in comment: c is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: B410 is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: B320 is not a test name or id, ignoring
+Working... ---------------------------------------- 100% 0:00:56
+[text]	INFO	Text output written to file: bandit_report.txt
+[RESULT] Bandit scan completed successfully. 
+[AUDIT] Running dependency vulnerability scan... 
+ERROR: unknown command "audit"
+[ERROR] pip audit failed or report not created. 
+[WARN] pytest_security.py not found, skipping tests. 
+[RUN] Starting main application... 
+[RESULT] Application launched successfully. 
+ 
+========================================================== 
+[DONE] Pipeline completed successfully. 
+2025-10-08 14:23:28,805 - INFO - Password Strength Checker started for user: evolsun
+2025-10-08 14:24:10,604 - INFO - User evolsun logged out. Session duration: 0 minutes

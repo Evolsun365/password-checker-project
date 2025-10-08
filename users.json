@@ -1,0 +1,21 @@
+{
+  "admin": {
+    "password_hash": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
+    "role": "admin",
+    "email": "dragneeldtensa@gmail.com",
+    "2fa_enabled": true
+  },
+  "user": {
+    "password_hash": "bc5848f227cc161eb5f68dfe98cb13110a9c843ce69e953a88107d865583d397",
+    "role": "user",
+    "email": "dragneeldtensa@gmail.com",
+    "2fa_enabled": true
+  },
+  "evolsun": {
+    "password_hash": "709de87cca1750941660876058ae053c5392f0c2105de092a3f6d3004390dd17",
+    "role": "user",
+    "email": "evo_mhz@hotmail.com",
+    "2fa_enabled": true,
+    "created_at": 1759892709.7294226
+  }
+}
