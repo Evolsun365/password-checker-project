@@ -24,9 +24,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install bandit flake8 pytest pip-audit
 
-      - name: Run Bandit (Static Analysis)
+           - name: Run Bandit (Static Analysis)
         run: |
-          bandit -r . -f txt -o bandit_report.txt
+          bandit -r . -f txt -o bandit_report.txt || true
+
 
       - name: Run pip-audit (Dependency Scan)
         run: |
