@@ -1,4 +1,4 @@
-Run started:2025-10-08 03:35:46.093519
+Run started:2025-10-08 03:53:31.876320
 
 Test results:
 >> Issue: [B311:blacklist] Standard pseudo-random generators are not suitable for security/cryptographic purposes.
@@ -115,6 +115,35 @@ Test results:
 788	                import subprocess
 789	                subprocess.Popen(['python', 'auth_system.py'])
 790	            except:
+
+--------------------------------------------------
+>> Issue: [B105:hardcoded_password_string] Possible hardcoded password: 'StrongPass123!'
+   Severity: Low   Confidence: Medium
+   CWE: CWE-259 (https://cwe.mitre.org/data/definitions/259.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b105_hardcoded_password_string.html
+   Location: .\pytest_security.py:11:15
+10	    checker = ModernPasswordChecker(root, "User", "TestUser")  # pass valid root
+11	    password = "StrongPass123!"
+12	    entropy = checker.calculate_entropy(password)
+
+--------------------------------------------------
+>> Issue: [B101:assert_used] Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
+   Severity: Low   Confidence: High
+   CWE: CWE-703 (https://cwe.mitre.org/data/definitions/703.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b101_assert_used.html
+   Location: .\pytest_security.py:13:4
+12	    entropy = checker.calculate_entropy(password)
+13	    assert entropy > 60, f"Entropy too low: {entropy}"
+14	    root.destroy()  # clean up after test
+
+--------------------------------------------------
+>> Issue: [B101:assert_used] Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
+   Severity: Low   Confidence: High
+   CWE: CWE-703 (https://cwe.mitre.org/data/definitions/703.html)
+   More Info: https://bandit.readthedocs.io/en/1.8.6/plugins/b101_assert_used.html
+   Location: .\pytest_security.py:18:4
+17	    """Check that the audit log file is generated"""
+18	    assert os.path.exists("app_audit.log"), "Audit log file missing"
 
 --------------------------------------------------
 >> Issue: [B101:assert_used] Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
@@ -70530,19 +70559,19 @@ Test results:
 --------------------------------------------------
 
 Code scanned:
-	Total lines of code: 803092
+	Total lines of code: 803107
 	Total lines skipped (#nosec): 9
 	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 21
 
 Run metrics:
 	Total issues (by severity):
 		Undefined: 0
-		Low: 6582
+		Low: 6585
 		Medium: 224
 		High: 47
 	Total issues (by confidence):
 		Undefined: 0
 		Low: 16
-		Medium: 100
-		High: 6737
+		Medium: 101
+		High: 6739
 Files skipped (0):
