@@ -1,0 +1,12 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.7, pytest-7.4.3, pluggy-1.6.0 -- C:\Users\evo_m\AppData\Local\Programs\Python\Python313\python.exe
+cachedir: .pytest_cache
+hypothesis profile 'default'
+rootdir: C:\Users\evo_m\Desktop\Security testing\password-checker-project
+plugins: anyio-4.11.0, hypothesis-6.140.2, cov-4.1.0
+collecting ... collected 2 items
+
+pytest_security.py::test_password_entropy PASSED                         [ 50%]
+pytest_security.py::test_audit_log_exists PASSED                         [100%]
+
+============================== 2 passed in 0.95s ==============================

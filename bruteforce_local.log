@@ -1,0 +1,164 @@
+2025-10-08 15:39:17,371 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:39:17,371 ERROR Wordlist not found: small_wordlist.txt
+2025-10-08 15:40:38,533 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:40:38,542 INFO Attempt 1: testing password '@"'
+2025-10-08 15:40:38,542 ERROR Error calling authenticate(): Please replace authenticate() with your project's auth function
+Traceback (most recent call last):
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 62, in run
+    ok = authenticate(USERNAME, pwd)   # <<-- replace with real call
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 40, in authenticate
+    raise RuntimeError("Please replace authenticate() with your project's auth function")
+RuntimeError: Please replace authenticate() with your project's auth function
+2025-10-08 15:40:38,547 INFO Brute-force test completed. Total attempts: 1
+2025-10-08 15:41:19,246 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:41:19,255 INFO Attempt 1: testing password '@"'
+2025-10-08 15:41:19,255 ERROR Error calling authenticate(): Please replace authenticate() with your project's auth function
+Traceback (most recent call last):
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 62, in run
+    ok = authenticate(USERNAME, pwd)   # <<-- replace with real call
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 40, in authenticate
+    raise RuntimeError("Please replace authenticate() with your project's auth function")
+RuntimeError: Please replace authenticate() with your project's auth function
+2025-10-08 15:41:19,259 INFO Brute-force test completed. Total attempts: 1
+2025-10-08 15:41:22,747 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:41:22,747 INFO Attempt 1: testing password '@"'
+2025-10-08 15:41:22,747 ERROR Error calling authenticate(): Please replace authenticate() with your project's auth function
+Traceback (most recent call last):
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 62, in run
+    ok = authenticate(USERNAME, pwd)   # <<-- replace with real call
+  File "C:\Users\evo_m\Desktop\Security testing\password-checker-project\bruteforce_test.py", line 40, in authenticate
+    raise RuntimeError("Please replace authenticate() with your project's auth function")
+RuntimeError: Please replace authenticate() with your project's auth function
+2025-10-08 15:41:22,751 INFO Brute-force test completed. Total attempts: 1
+2025-10-08 15:43:49,301 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:43:49,302 INFO Using wordlist with 31 entries (first 5): ['123456', 'password', '12345678', 'qwerty', 'abc123']
+2025-10-08 15:43:49,368 WARNING No auth function detected in project. Falling back to entropy-only simulation (no real auth).
+2025-10-08 15:43:49,368 INFO Attempt 1: testing password '123456'
+2025-10-08 15:43:49,368 INFO Simulated check (no auth): Password: 123456 | Entropy: 19.93
+2025-10-08 15:43:49,869 INFO Attempt 2: testing password 'password'
+2025-10-08 15:43:49,869 INFO Simulated check (no auth): Password: password | Entropy: 37.60
+2025-10-08 15:43:50,376 INFO Attempt 3: testing password '12345678'
+2025-10-08 15:43:50,377 INFO Simulated check (no auth): Password: 12345678 | Entropy: 26.58
+2025-10-08 15:43:50,877 INFO Attempt 4: testing password 'qwerty'
+2025-10-08 15:43:50,878 INFO Simulated check (no auth): Password: qwerty | Entropy: 28.20
+2025-10-08 15:43:51,378 INFO Attempt 5: testing password 'abc123'
+2025-10-08 15:43:51,379 INFO Simulated check (no auth): Password: abc123 | Entropy: 31.02
+2025-10-08 15:43:51,880 INFO Attempt 6: testing password 'letmein'
+2025-10-08 15:43:51,880 INFO Simulated check (no auth): Password: letmein | Entropy: 32.90
+2025-10-08 15:43:52,381 INFO Attempt 7: testing password 'monkey'
+2025-10-08 15:43:52,381 INFO Simulated check (no auth): Password: monkey | Entropy: 28.20
+2025-10-08 15:43:52,882 INFO Attempt 8: testing password 'dragon'
+2025-10-08 15:43:52,882 INFO Simulated check (no auth): Password: dragon | Entropy: 28.20
+2025-10-08 15:43:53,383 INFO Attempt 9: testing password 'iloveyou'
+2025-10-08 15:43:53,384 INFO Simulated check (no auth): Password: iloveyou | Entropy: 37.60
+2025-10-08 15:43:53,884 INFO Attempt 10: testing password '111111'
+2025-10-08 15:43:53,885 INFO Simulated check (no auth): Password: 111111 | Entropy: 19.93
+2025-10-08 15:43:54,386 INFO Attempt 11: testing password 'admin'
+2025-10-08 15:43:54,386 INFO Simulated check (no auth): Password: admin | Entropy: 23.50
+2025-10-08 15:43:54,886 INFO Attempt 12: testing password 'welcome'
+2025-10-08 15:43:54,887 INFO Simulated check (no auth): Password: welcome | Entropy: 32.90
+2025-10-08 15:43:55,387 INFO Attempt 13: testing password 'passw0rd'
+2025-10-08 15:43:55,388 INFO Simulated check (no auth): Password: passw0rd | Entropy: 41.36
+2025-10-08 15:43:55,888 INFO Attempt 14: testing password 'Password1'
+2025-10-08 15:43:55,889 INFO Simulated check (no auth): Password: Password1 | Entropy: 53.59
+2025-10-08 15:43:56,389 INFO Attempt 15: testing password 'admin123'
+2025-10-08 15:43:56,390 INFO Simulated check (no auth): Password: admin123 | Entropy: 41.36
+2025-10-08 15:43:56,890 INFO Attempt 16: testing password '1q2w3e4r'
+2025-10-08 15:43:56,891 INFO Simulated check (no auth): Password: 1q2w3e4r | Entropy: 41.36
+2025-10-08 15:43:57,391 INFO Attempt 17: testing password 'sunshine'
+2025-10-08 15:43:57,391 INFO Simulated check (no auth): Password: sunshine | Entropy: 37.60
+2025-10-08 15:43:57,892 INFO Attempt 18: testing password 'princess'
+2025-10-08 15:43:57,892 INFO Simulated check (no auth): Password: princess | Entropy: 37.60
+2025-10-08 15:43:58,393 INFO Attempt 19: testing password 'football'
+2025-10-08 15:43:58,393 INFO Simulated check (no auth): Password: football | Entropy: 37.60
+2025-10-08 15:43:58,894 INFO Attempt 20: testing password 'charlie'
+2025-10-08 15:43:58,895 INFO Simulated check (no auth): Password: charlie | Entropy: 32.90
+2025-10-08 15:43:59,395 INFO Attempt 21: testing password 'donald'
+2025-10-08 15:43:59,396 INFO Simulated check (no auth): Password: donald | Entropy: 28.20
+2025-10-08 15:43:59,896 INFO Attempt 22: testing password 'lovely'
+2025-10-08 15:43:59,897 INFO Simulated check (no auth): Password: lovely | Entropy: 28.20
+2025-10-08 15:44:00,399 INFO Attempt 23: testing password 'freedom'
+2025-10-08 15:44:00,399 INFO Simulated check (no auth): Password: freedom | Entropy: 32.90
+2025-10-08 15:44:00,900 INFO Attempt 24: testing password 'login'
+2025-10-08 15:44:00,900 INFO Simulated check (no auth): Password: login | Entropy: 23.50
+2025-10-08 15:44:01,400 INFO Attempt 25: testing password 'master'
+2025-10-08 15:44:01,401 INFO Simulated check (no auth): Password: master | Entropy: 28.20
+2025-10-08 15:44:01,902 INFO Attempt 26: testing password 'hello123'
+2025-10-08 15:44:01,902 INFO Simulated check (no auth): Password: hello123 | Entropy: 41.36
+2025-10-08 15:44:02,403 INFO Attempt 27: testing password 'trustno1'
+2025-10-08 15:44:02,403 INFO Simulated check (no auth): Password: trustno1 | Entropy: 41.36
+2025-10-08 15:44:02,903 INFO Attempt 28: testing password 'whatever'
+2025-10-08 15:44:02,904 INFO Simulated check (no auth): Password: whatever | Entropy: 37.60
+2025-10-08 15:44:03,404 INFO Attempt 29: testing password 'Qwerty!2024'
+2025-10-08 15:44:03,405 INFO Simulated check (no auth): Password: Qwerty!2024 | Entropy: 72.10
+2025-10-08 15:44:03,905 INFO Attempt 30: testing password 'S3cur3#Key2025'
+2025-10-08 15:44:03,905 INFO Simulated check (no auth): Password: S3cur3#Key2025 | Entropy: 91.76
+2025-10-08 15:44:04,406 INFO Attempt 31: testing password '"@ | Out-File -FilePath .\small_wordlist.txt -Encoding utf8'
+2025-10-08 15:44:04,406 INFO Simulated check (no auth): Password: "@ | Out-File -FilePath .\small_wordlist.txt -Encoding utf8 | Entropy: 386.72
+2025-10-08 15:44:04,907 INFO Brute-force test completed. Total attempts: 31
+2025-10-08 15:44:09,041 INFO Starting local brute-force test against user: testuser
+2025-10-08 15:44:09,050 INFO Using wordlist with 31 entries (first 5): ['123456', 'password', '12345678', 'qwerty', 'abc123']
+2025-10-08 15:44:09,093 WARNING No auth function detected in project. Falling back to entropy-only simulation (no real auth).
+2025-10-08 15:44:09,093 INFO Attempt 1: testing password '123456'
+2025-10-08 15:44:09,094 INFO Simulated check (no auth): Password: 123456 | Entropy: 19.93
+2025-10-08 15:44:09,594 INFO Attempt 2: testing password 'password'
+2025-10-08 15:44:09,595 INFO Simulated check (no auth): Password: password | Entropy: 37.60
+2025-10-08 15:44:10,095 INFO Attempt 3: testing password '12345678'
+2025-10-08 15:44:10,095 INFO Simulated check (no auth): Password: 12345678 | Entropy: 26.58
+2025-10-08 15:44:10,596 INFO Attempt 4: testing password 'qwerty'
+2025-10-08 15:44:10,596 INFO Simulated check (no auth): Password: qwerty | Entropy: 28.20
+2025-10-08 15:44:11,096 INFO Attempt 5: testing password 'abc123'
+2025-10-08 15:44:11,097 INFO Simulated check (no auth): Password: abc123 | Entropy: 31.02
+2025-10-08 15:44:11,598 INFO Attempt 6: testing password 'letmein'
+2025-10-08 15:44:11,598 INFO Simulated check (no auth): Password: letmein | Entropy: 32.90
+2025-10-08 15:44:12,099 INFO Attempt 7: testing password 'monkey'
+2025-10-08 15:44:12,099 INFO Simulated check (no auth): Password: monkey | Entropy: 28.20
+2025-10-08 15:44:12,599 INFO Attempt 8: testing password 'dragon'
+2025-10-08 15:44:12,600 INFO Simulated check (no auth): Password: dragon | Entropy: 28.20
+2025-10-08 15:44:13,100 INFO Attempt 9: testing password 'iloveyou'
+2025-10-08 15:44:13,101 INFO Simulated check (no auth): Password: iloveyou | Entropy: 37.60
+2025-10-08 15:44:13,602 INFO Attempt 10: testing password '111111'
+2025-10-08 15:44:13,602 INFO Simulated check (no auth): Password: 111111 | Entropy: 19.93
+2025-10-08 15:44:14,103 INFO Attempt 11: testing password 'admin'
+2025-10-08 15:44:14,103 INFO Simulated check (no auth): Password: admin | Entropy: 23.50
+2025-10-08 15:44:14,603 INFO Attempt 12: testing password 'welcome'
+2025-10-08 15:44:14,604 INFO Simulated check (no auth): Password: welcome | Entropy: 32.90
+2025-10-08 15:44:15,104 INFO Attempt 13: testing password 'passw0rd'
+2025-10-08 15:44:15,105 INFO Simulated check (no auth): Password: passw0rd | Entropy: 41.36
+2025-10-08 15:44:15,605 INFO Attempt 14: testing password 'Password1'
+2025-10-08 15:44:15,605 INFO Simulated check (no auth): Password: Password1 | Entropy: 53.59
+2025-10-08 15:44:16,106 INFO Attempt 15: testing password 'admin123'
+2025-10-08 15:44:16,106 INFO Simulated check (no auth): Password: admin123 | Entropy: 41.36
+2025-10-08 15:44:16,607 INFO Attempt 16: testing password '1q2w3e4r'
+2025-10-08 15:44:16,607 INFO Simulated check (no auth): Password: 1q2w3e4r | Entropy: 41.36
+2025-10-08 15:44:17,107 INFO Attempt 17: testing password 'sunshine'
+2025-10-08 15:44:17,108 INFO Simulated check (no auth): Password: sunshine | Entropy: 37.60
+2025-10-08 15:44:17,609 INFO Attempt 18: testing password 'princess'
+2025-10-08 15:44:17,611 INFO Simulated check (no auth): Password: princess | Entropy: 37.60
+2025-10-08 15:44:18,111 INFO Attempt 19: testing password 'football'
+2025-10-08 15:44:18,111 INFO Simulated check (no auth): Password: football | Entropy: 37.60
+2025-10-08 15:44:18,612 INFO Attempt 20: testing password 'charlie'
+2025-10-08 15:44:18,612 INFO Simulated check (no auth): Password: charlie | Entropy: 32.90
+2025-10-08 15:44:19,112 INFO Attempt 21: testing password 'donald'
+2025-10-08 15:44:19,113 INFO Simulated check (no auth): Password: donald | Entropy: 28.20
+2025-10-08 15:44:19,613 INFO Attempt 22: testing password 'lovely'
+2025-10-08 15:44:19,613 INFO Simulated check (no auth): Password: lovely | Entropy: 28.20
+2025-10-08 15:44:20,114 INFO Attempt 23: testing password 'freedom'
+2025-10-08 15:44:20,115 INFO Simulated check (no auth): Password: freedom | Entropy: 32.90
+2025-10-08 15:44:20,615 INFO Attempt 24: testing password 'login'
+2025-10-08 15:44:20,616 INFO Simulated check (no auth): Password: login | Entropy: 23.50
+2025-10-08 15:44:21,116 INFO Attempt 25: testing password 'master'
+2025-10-08 15:44:21,117 INFO Simulated check (no auth): Password: master | Entropy: 28.20
+2025-10-08 15:44:21,617 INFO Attempt 26: testing password 'hello123'
+2025-10-08 15:44:21,617 INFO Simulated check (no auth): Password: hello123 | Entropy: 41.36
+2025-10-08 15:44:22,118 INFO Attempt 27: testing password 'trustno1'
+2025-10-08 15:44:22,118 INFO Simulated check (no auth): Password: trustno1 | Entropy: 41.36
+2025-10-08 15:44:22,618 INFO Attempt 28: testing password 'whatever'
+2025-10-08 15:44:22,619 INFO Simulated check (no auth): Password: whatever | Entropy: 37.60
+2025-10-08 15:44:23,119 INFO Attempt 29: testing password 'Qwerty!2024'
+2025-10-08 15:44:23,120 INFO Simulated check (no auth): Password: Qwerty!2024 | Entropy: 72.10
+2025-10-08 15:44:23,620 INFO Attempt 30: testing password 'S3cur3#Key2025'
+2025-10-08 15:44:23,621 INFO Simulated check (no auth): Password: S3cur3#Key2025 | Entropy: 91.76
+2025-10-08 15:44:24,121 INFO Attempt 31: testing password '"@ | Out-File -FilePath .\small_wordlist.txt -Encoding utf8'
+2025-10-08 15:44:24,122 INFO Simulated check (no auth): Password: "@ | Out-File -FilePath .\small_wordlist.txt -Encoding utf8 | Entropy: 386.72
+2025-10-08 15:44:24,622 INFO Brute-force test completed. Total attempts: 31

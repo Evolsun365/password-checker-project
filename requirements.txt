@@ -1,0 +1,14 @@
+# Core dependencies
+bcrypt
+python-dotenv
+
+# Security testing and auditing
+bandit
+pip-audit
+
+# Code quality
+flake8
+
+# Testing
+pytest
+pytest-cov

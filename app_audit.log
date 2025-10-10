@@ -1,0 +1,120 @@
+========================================================== 
+[INFO] Starting DevSecOps automation... 
+Timestamp: Wed 08/10/2025 14:21:35.99 
+========================================================== 
+[INFO] Virtual environment already exists. Skipping creation. 
+[SETUP] Virtual environment activated. 
+[INSTALL] Upgrading base tools... 
+Requirement already satisfied: pip in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (25.2)
+Requirement already satisfied: setuptools in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (80.9.0)
+Requirement already satisfied: wheel in c:\users\evo_m\desktop\security testing\password-checker-project\venv\lib\site-packages (0.45.1)
+[INSTALL] Installing dependencies from requirements.txt... 
+ERROR: Could not find a version that satisfies the requirement tkinter (from versions: none)
+ERROR: No matching distribution found for tkinter
+[CHECK] Verifying pbr installation... 
+[INFO] pbr already installed. 
+[CHECK] Verifying bandit installation... 
+[INFO] bandit already installed. 
+[CHECK] Verifying pytest installation... 
+[INFO] pytest already installed. 
+[CHECK] Verifying pip-audit installation... 
+[INFO] pip-audit already installed. 
+[SECURITY] Running Bandit static analysis... 
+[main]	INFO	profile include tests: None
+[main]	INFO	profile exclude tests: None
+[main]	INFO	cli include tests: None
+[main]	INFO	cli exclude tests: None
+[main]	INFO	running on Python 3.13.7
+[manager]	WARNING	Test in comment: _lines is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: is is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: a is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: dict is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: of is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: line is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: number is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: set is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: of is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: tests is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: to is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: ignore is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: tkelsey is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: catching is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: expected is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: exception is not a test name or id, ignoring
+[tester]	WARNING	nosec encountered (B108), but no failed test on line 61
+[manager]	WARNING	Test in comment: c is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: B410 is not a test name or id, ignoring
+[manager]	WARNING	Test in comment: B320 is not a test name or id, ignoring
+Working... ---------------------------------------- 100% 0:00:56
+[text]	INFO	Text output written to file: bandit_report.txt
+[RESULT] Bandit scan completed successfully. 
+[AUDIT] Running dependency vulnerability scan... 
+ERROR: unknown command "audit"
+[ERROR] pip audit failed or report not created. 
+[WARN] pytest_security.py not found, skipping tests. 
+[RUN] Starting main application... 
+[RESULT] Application launched successfully. 
+ 
+========================================================== 
+[DONE] Pipeline completed successfully. 
+2025-10-08 14:23:28,805 - INFO - Password Strength Checker started for user: evolsun
+2025-10-08 14:24:10,604 - INFO - User evolsun logged out. Session duration: 0 minutes
+2025-10-08 16:24:45,069 - INFO - Password Strength Checker started for user: admin
+2025-10-08 16:25:55,544 - INFO - User admin analyzed password: 5 chars, entropy: 25
+2025-10-08 16:26:01,773 - INFO - User admin analyzed password: 5 chars, entropy: 25
+2025-10-08 16:26:34,731 - INFO - User admin analyzed password: 9 chars, entropy: 63
+2025-10-08 16:27:41,615 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:27:42,212 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:27:42,731 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:26,823 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:27,985 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:28,375 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:28,681 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:28,967 - INFO - User admin analyzed password: 16 chars, entropy: 96
+2025-10-08 16:28:29,364 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:29,889 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:30,318 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:30,982 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:31,532 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:31,845 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:32,137 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:32,407 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:32,626 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:32,822 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:33,002 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:33,187 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:33,570 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:33,765 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:33,953 - INFO - User admin analyzed password: 16 chars, entropy: 96
+2025-10-08 16:28:34,387 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:34,558 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:34,731 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:34,890 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:35,519 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:36,261 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:36,982 - INFO - User admin analyzed password: 16 chars, entropy: 96
+2025-10-08 16:28:37,290 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:37,619 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:38,121 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:38,435 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:38,751 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:39,043 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:39,382 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:39,718 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:40,115 - INFO - User admin analyzed password: 16 chars, entropy: 96
+2025-10-08 16:28:43,078 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:43,498 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:28:43,841 - INFO - User admin analyzed password: 16 chars, entropy: 112
+2025-10-08 16:29:48,368 - INFO - User admin analyzed password: 19 chars, entropy: 133
+2025-10-08 16:30:48,234 - INFO - User admin analyzed password: 21 chars, entropy: 147
+2025-10-08 17:08:37,541 - INFO - User admin logged out. Session duration: 43 minutes
+2025-10-08 18:11:30,583 - INFO - Password Strength Checker started for user: suman
+2025-10-08 18:11:39,585 - INFO - User suman analyzed password: 9 chars, entropy: 63
+2025-10-08 18:11:58,514 - INFO - User suman analyzed password: 19 chars, entropy: 133
+2025-10-08 18:12:07,864 - INFO - User suman analyzed password: 21 chars, entropy: 147
+2025-10-08 18:12:38,279 - INFO - User suman logged out. Session duration: 1 minutes
+2025-10-08 18:13:10,866 - INFO - Password Strength Checker started for user: admin
+2025-10-08 18:13:20,369 - INFO - User admin analyzed password: 8 chars, entropy: 48
+2025-10-08 18:13:29,171 - INFO - User admin analyzed password: 20 chars, entropy: 140
+2025-10-08 18:13:53,747 - INFO - User admin analyzed password: 20 chars, entropy: 140
+2025-10-08 21:15:28,568 - INFO - Password Strength Checker started for user: admin

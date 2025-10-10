@@ -1,0 +1,1422 @@
+.\auth_system.py:3:1: F401 'tkinter.ttk' imported but unused
+.\auth_system.py:7:1: F401 'secrets' imported but unused
+.\auth_system.py:16:1: E302 expected 2 blank lines, found 1
+.\auth_system.py:25:1: W293 blank line contains whitespace
+.\auth_system.py:28:1: W293 blank line contains whitespace
+.\auth_system.py:35:1: W293 blank line contains whitespace
+.\auth_system.py:38:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:39:80: E501 line too long (158 > 79 characters)
+.\auth_system.py:40:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:41:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:42:1: W293 blank line contains whitespace
+.\auth_system.py:44:80: E501 line too long (94 > 79 characters)
+.\auth_system.py:44:95: W291 trailing whitespace
+.\auth_system.py:45:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:46:1: W293 blank line contains whitespace
+.\auth_system.py:48:80: E501 line too long (108 > 79 characters)
+.\auth_system.py:48:109: W291 trailing whitespace
+.\auth_system.py:49:80: E501 line too long (119 > 79 characters)
+.\auth_system.py:53:1: W293 blank line contains whitespace
+.\auth_system.py:56:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:58:1: W293 blank line contains whitespace
+.\auth_system.py:59:80: E501 line too long (93 > 79 characters)
+.\auth_system.py:60:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:61:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:67:1: W293 blank line contains whitespace
+.\auth_system.py:69:1: W293 blank line contains whitespace
+.\auth_system.py:70:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:72:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:75:1: W293 blank line contains whitespace
+.\auth_system.py:78:1: W293 blank line contains whitespace
+.\auth_system.py:81:55: W291 trailing whitespace
+.\auth_system.py:82:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:82:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:83:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:84:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:93:1: W293 blank line contains whitespace
+.\auth_system.py:96:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:97:80: E501 line too long (158 > 79 characters)
+.\auth_system.py:98:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:100:1: W293 blank line contains whitespace
+.\auth_system.py:102:80: E501 line too long (132 > 79 characters)
+.\auth_system.py:103:1: W293 blank line contains whitespace
+.\auth_system.py:104:80: E501 line too long (105 > 79 characters)
+.\auth_system.py:105:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:114:1: W293 blank line contains whitespace
+.\auth_system.py:116:80: E501 line too long (107 > 79 characters)
+.\auth_system.py:122:1: W293 blank line contains whitespace
+.\auth_system.py:123:80: E501 line too long (93 > 79 characters)
+.\auth_system.py:124:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:125:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:131:1: W293 blank line contains whitespace
+.\auth_system.py:133:1: W293 blank line contains whitespace
+.\auth_system.py:134:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:136:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:139:1: W293 blank line contains whitespace
+.\auth_system.py:142:1: W293 blank line contains whitespace
+.\auth_system.py:146:1: W293 blank line contains whitespace
+.\auth_system.py:154:1: W293 blank line contains whitespace
+.\auth_system.py:158:1: W293 blank line contains whitespace
+.\auth_system.py:162:1: W293 blank line contains whitespace
+.\auth_system.py:164:1: W293 blank line contains whitespace
+.\auth_system.py:168:1: W293 blank line contains whitespace
+.\auth_system.py:172:1: W293 blank line contains whitespace
+.\auth_system.py:176:1: W293 blank line contains whitespace
+.\auth_system.py:180:1: W293 blank line contains whitespace
+.\auth_system.py:183:1: E302 expected 2 blank lines, found 1
+.\auth_system.py:188:1: W293 blank line contains whitespace
+.\auth_system.py:191:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:194:80: E501 line too long (81 > 79 characters)
+.\auth_system.py:200:1: W293 blank line contains whitespace
+.\auth_system.py:220:1: W293 blank line contains whitespace
+.\auth_system.py:228:1: W293 blank line contains whitespace
+.\auth_system.py:231:1: W293 blank line contains whitespace
+.\auth_system.py:234:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:236:1: W293 blank line contains whitespace
+.\auth_system.py:239:1: W293 blank line contains whitespace
+.\auth_system.py:242:1: W293 blank line contains whitespace
+.\auth_system.py:245:1: W293 blank line contains whitespace
+.\auth_system.py:248:1: W293 blank line contains whitespace
+.\auth_system.py:254:1: W293 blank line contains whitespace
+.\auth_system.py:258:1: W293 blank line contains whitespace
+.\auth_system.py:261:1: W293 blank line contains whitespace
+.\auth_system.py:264:1: W293 blank line contains whitespace
+.\auth_system.py:266:80: E501 line too long (125 > 79 characters)
+.\auth_system.py:267:1: W293 blank line contains whitespace
+.\auth_system.py:275:1: W293 blank line contains whitespace
+.\auth_system.py:277:1: W293 blank line contains whitespace
+.\auth_system.py:280:1: W293 blank line contains whitespace
+.\auth_system.py:284:1: W293 blank line contains whitespace
+.\auth_system.py:286:1: W293 blank line contains whitespace
+.\auth_system.py:290:1: W293 blank line contains whitespace
+.\auth_system.py:304:1: E302 expected 2 blank lines, found 1
+.\auth_system.py:312:1: W293 blank line contains whitespace
+.\auth_system.py:315:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:316:1: W293 blank line contains whitespace
+.\auth_system.py:320:1: W293 blank line contains whitespace
+.\auth_system.py:328:1: W293 blank line contains whitespace
+.\auth_system.py:330:1: W293 blank line contains whitespace
+.\auth_system.py:335:1: W293 blank line contains whitespace
+.\auth_system.py:341:1: W293 blank line contains whitespace
+.\auth_system.py:345:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:347:1: W293 blank line contains whitespace
+.\auth_system.py:351:1: W293 blank line contains whitespace
+.\auth_system.py:354:17: F841 local variable 'alpha' is assigned to but never used
+.\auth_system.py:357:1: W293 blank line contains whitespace
+.\auth_system.py:359:1: W293 blank line contains whitespace
+.\auth_system.py:360:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:362:73: W291 trailing whitespace
+.\auth_system.py:363:24: E128 continuation line under-indented for visual indent
+.\auth_system.py:364:1: W293 blank line contains whitespace
+.\auth_system.py:368:1: W293 blank line contains whitespace
+.\auth_system.py:372:1: W293 blank line contains whitespace
+.\auth_system.py:375:1: W293 blank line contains whitespace
+.\auth_system.py:377:1: W293 blank line contains whitespace
+.\auth_system.py:383:1: W293 blank line contains whitespace
+.\auth_system.py:385:1: W293 blank line contains whitespace
+.\auth_system.py:389:1: W293 blank line contains whitespace
+.\auth_system.py:391:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:393:1: W293 blank line contains whitespace
+.\auth_system.py:396:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:397:1: W293 blank line contains whitespace
+.\auth_system.py:400:1: W293 blank line contains whitespace
+.\auth_system.py:404:1: W293 blank line contains whitespace
+.\auth_system.py:406:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:408:1: W293 blank line contains whitespace
+.\auth_system.py:410:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:411:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:413:1: W293 blank line contains whitespace
+.\auth_system.py:414:61: W291 trailing whitespace
+.\auth_system.py:415:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:415:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:416:1: W293 blank line contains whitespace
+.\auth_system.py:417:72: W291 trailing whitespace
+.\auth_system.py:418:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:419:1: W293 blank line contains whitespace
+.\auth_system.py:423:1: W293 blank line contains whitespace
+.\auth_system.py:427:1: W293 blank line contains whitespace
+.\auth_system.py:430:1: W293 blank line contains whitespace
+.\auth_system.py:434:1: W293 blank line contains whitespace
+.\auth_system.py:435:80: E501 line too long (106 > 79 characters)
+.\auth_system.py:437:80: E501 line too long (95 > 79 characters)
+.\auth_system.py:439:1: W293 blank line contains whitespace
+.\auth_system.py:442:1: W293 blank line contains whitespace
+.\auth_system.py:443:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:443:88: W291 trailing whitespace
+.\auth_system.py:444:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:445:1: W293 blank line contains whitespace
+.\auth_system.py:446:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:446:92: W291 trailing whitespace
+.\auth_system.py:447:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:448:1: W293 blank line contains whitespace
+.\auth_system.py:452:65: W291 trailing whitespace
+.\auth_system.py:456:1: W293 blank line contains whitespace
+.\auth_system.py:460:1: W293 blank line contains whitespace
+.\auth_system.py:463:1: W293 blank line contains whitespace
+.\auth_system.py:467:1: W293 blank line contains whitespace
+.\auth_system.py:468:80: E501 line too long (108 > 79 characters)
+.\auth_system.py:470:80: E501 line too long (96 > 79 characters)
+.\auth_system.py:472:1: W293 blank line contains whitespace
+.\auth_system.py:475:1: W293 blank line contains whitespace
+.\auth_system.py:476:80: E501 line too long (83 > 79 characters)
+.\auth_system.py:476:84: W291 trailing whitespace
+.\auth_system.py:477:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:478:1: W293 blank line contains whitespace
+.\auth_system.py:479:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:479:91: W291 trailing whitespace
+.\auth_system.py:480:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:481:1: W293 blank line contains whitespace
+.\auth_system.py:485:65: W291 trailing whitespace
+.\auth_system.py:489:1: W293 blank line contains whitespace
+.\auth_system.py:492:29: E128 continuation line under-indented for visual indent
+.\auth_system.py:492:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:494:1: W293 blank line contains whitespace
+.\auth_system.py:497:1: W293 blank line contains whitespace
+.\auth_system.py:498:80: E501 line too long (83 > 79 characters)
+.\auth_system.py:498:84: W291 trailing whitespace
+.\auth_system.py:499:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:500:1: W293 blank line contains whitespace
+.\auth_system.py:503:1: W293 blank line contains whitespace
+.\auth_system.py:507:77: W291 trailing whitespace
+.\auth_system.py:508:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:509:78: W291 trailing whitespace
+.\auth_system.py:510:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:511:1: W293 blank line contains whitespace
+.\auth_system.py:515:75: W291 trailing whitespace
+.\auth_system.py:516:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:517:75: W291 trailing whitespace
+.\auth_system.py:518:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:519:1: W293 blank line contains whitespace
+.\auth_system.py:529:1: W293 blank line contains whitespace
+.\auth_system.py:531:1: W293 blank line contains whitespace
+.\auth_system.py:533:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:535:1: W293 blank line contains whitespace
+.\auth_system.py:538:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:539:1: W293 blank line contains whitespace
+.\auth_system.py:543:1: W293 blank line contains whitespace
+.\auth_system.py:550:1: W293 blank line contains whitespace
+.\auth_system.py:554:1: W293 blank line contains whitespace
+.\auth_system.py:556:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:558:80: E501 line too long (89 > 79 characters)
+.\auth_system.py:560:1: W293 blank line contains whitespace
+.\auth_system.py:561:52: W291 trailing whitespace
+.\auth_system.py:562:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:562:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:563:1: W293 blank line contains whitespace
+.\auth_system.py:564:72: W291 trailing whitespace
+.\auth_system.py:565:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:566:1: W293 blank line contains whitespace
+.\auth_system.py:570:1: W293 blank line contains whitespace
+.\auth_system.py:572:77: W291 trailing whitespace
+.\auth_system.py:573:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:574:1: W293 blank line contains whitespace
+.\auth_system.py:576:80: E501 line too long (83 > 79 characters)
+.\auth_system.py:576:84: W291 trailing whitespace
+.\auth_system.py:577:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:577:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:578:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:578:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:579:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:582:1: W293 blank line contains whitespace
+.\auth_system.py:584:77: W291 trailing whitespace
+.\auth_system.py:585:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:586:1: W293 blank line contains whitespace
+.\auth_system.py:588:80: E501 line too long (83 > 79 characters)
+.\auth_system.py:588:84: W291 trailing whitespace
+.\auth_system.py:589:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:589:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:590:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:590:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:591:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:593:1: W293 blank line contains whitespace
+.\auth_system.py:597:65: W291 trailing whitespace
+.\auth_system.py:601:1: W293 blank line contains whitespace
+.\auth_system.py:605:1: W293 blank line contains whitespace
+.\auth_system.py:606:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:606:86: W291 trailing whitespace
+.\auth_system.py:607:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:608:1: W293 blank line contains whitespace
+.\auth_system.py:609:80: E501 line too long (97 > 79 characters)
+.\auth_system.py:609:98: W291 trailing whitespace
+.\auth_system.py:610:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:613:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:614:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:615:1: W293 blank line contains whitespace
+.\auth_system.py:617:1: W293 blank line contains whitespace
+.\auth_system.py:625:1: W293 blank line contains whitespace
+.\auth_system.py:627:1: W293 blank line contains whitespace
+.\auth_system.py:629:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:631:1: W293 blank line contains whitespace
+.\auth_system.py:634:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:635:1: W293 blank line contains whitespace
+.\auth_system.py:639:1: W293 blank line contains whitespace
+.\auth_system.py:646:1: W293 blank line contains whitespace
+.\auth_system.py:650:1: W293 blank line contains whitespace
+.\auth_system.py:652:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:654:80: E501 line too long (89 > 79 characters)
+.\auth_system.py:656:1: W293 blank line contains whitespace
+.\auth_system.py:657:54: W291 trailing whitespace
+.\auth_system.py:658:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:658:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:659:1: W293 blank line contains whitespace
+.\auth_system.py:660:70: W291 trailing whitespace
+.\auth_system.py:661:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:662:1: W293 blank line contains whitespace
+.\auth_system.py:666:1: W293 blank line contains whitespace
+.\auth_system.py:668:77: W291 trailing whitespace
+.\auth_system.py:669:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:670:1: W293 blank line contains whitespace
+.\auth_system.py:672:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:672:85: W291 trailing whitespace
+.\auth_system.py:673:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:673:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:674:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:674:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:675:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:678:1: W293 blank line contains whitespace
+.\auth_system.py:680:80: E501 line too long (81 > 79 characters)
+.\auth_system.py:680:82: W291 trailing whitespace
+.\auth_system.py:681:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:682:1: W293 blank line contains whitespace
+.\auth_system.py:684:79: W291 trailing whitespace
+.\auth_system.py:685:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:685:80: E501 line too long (81 > 79 characters)
+.\auth_system.py:686:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:686:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:687:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:689:1: W293 blank line contains whitespace
+.\auth_system.py:691:77: W291 trailing whitespace
+.\auth_system.py:692:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:693:1: W293 blank line contains whitespace
+.\auth_system.py:695:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:695:85: W291 trailing whitespace
+.\auth_system.py:696:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:696:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:697:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:697:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:698:34: E128 continuation line under-indented for visual indent
+.\auth_system.py:700:1: W293 blank line contains whitespace
+.\auth_system.py:703:28: E128 continuation line under-indented for visual indent
+.\auth_system.py:705:1: W293 blank line contains whitespace
+.\auth_system.py:708:1: W293 blank line contains whitespace
+.\auth_system.py:709:28: W291 trailing whitespace
+.\auth_system.py:710:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:710:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:711:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:712:1: W293 blank line contains whitespace
+.\auth_system.py:716:65: W291 trailing whitespace
+.\auth_system.py:720:1: W293 blank line contains whitespace
+.\auth_system.py:724:1: W293 blank line contains whitespace
+.\auth_system.py:725:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:725:88: W291 trailing whitespace
+.\auth_system.py:726:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:727:1: W293 blank line contains whitespace
+.\auth_system.py:728:80: E501 line too long (94 > 79 characters)
+.\auth_system.py:728:95: W291 trailing whitespace
+.\auth_system.py:729:30: E128 continuation line under-indented for visual indent
+.\auth_system.py:732:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:733:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:734:1: W293 blank line contains whitespace
+.\auth_system.py:736:1: W293 blank line contains whitespace
+.\auth_system.py:744:1: W293 blank line contains whitespace
+.\auth_system.py:746:1: W293 blank line contains whitespace
+.\auth_system.py:748:80: E501 line too long (90 > 79 characters)
+.\auth_system.py:750:1: W293 blank line contains whitespace
+.\auth_system.py:753:80: E501 line too long (88 > 79 characters)
+.\auth_system.py:754:1: W293 blank line contains whitespace
+.\auth_system.py:758:1: W293 blank line contains whitespace
+.\auth_system.py:760:80: E501 line too long (100 > 79 characters)
+.\auth_system.py:762:80: E501 line too long (89 > 79 characters)
+.\auth_system.py:764:1: W293 blank line contains whitespace
+.\auth_system.py:765:60: W291 trailing whitespace
+.\auth_system.py:766:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:766:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:767:1: W293 blank line contains whitespace
+.\auth_system.py:768:66: W291 trailing whitespace
+.\auth_system.py:769:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:770:1: W293 blank line contains whitespace
+.\auth_system.py:774:1: W293 blank line contains whitespace
+.\auth_system.py:777:27: E128 continuation line under-indented for visual indent
+.\auth_system.py:779:1: W293 blank line contains whitespace
+.\auth_system.py:782:1: W293 blank line contains whitespace
+.\auth_system.py:783:29: W291 trailing whitespace
+.\auth_system.py:784:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:784:80: E501 line too long (98 > 79 characters)
+.\auth_system.py:785:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:785:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:786:1: W293 blank line contains whitespace
+.\auth_system.py:788:80: E501 line too long (85 > 79 characters)
+.\auth_system.py:788:86: W291 trailing whitespace
+.\auth_system.py:789:17: E128 continuation line under-indented for visual indent
+.\auth_system.py:790:1: W293 blank line contains whitespace
+.\auth_system.py:792:1: W293 blank line contains whitespace
+.\auth_system.py:796:1: W293 blank line contains whitespace
+.\auth_system.py:797:72: W291 trailing whitespace
+.\auth_system.py:798:29: E128 continuation line under-indented for visual indent
+.\auth_system.py:798:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:799:29: E128 continuation line under-indented for visual indent
+.\auth_system.py:799:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:800:29: E128 continuation line under-indented for visual indent
+.\auth_system.py:800:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:803:1: W293 blank line contains whitespace
+.\auth_system.py:806:80: E501 line too long (81 > 79 characters)
+.\auth_system.py:806:82: W291 trailing whitespace
+.\auth_system.py:807:40: E128 continuation line under-indented for visual indent
+.\auth_system.py:810:1: W293 blank line contains whitespace
+.\auth_system.py:813:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:814:65: W291 trailing whitespace
+.\auth_system.py:818:1: W293 blank line contains whitespace
+.\auth_system.py:821:80: E501 line too long (92 > 79 characters)
+.\auth_system.py:822:57: W291 trailing whitespace
+.\auth_system.py:826:1: W293 blank line contains whitespace
+.\auth_system.py:834:1: W293 blank line contains whitespace
+.\auth_system.py:835:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:836:1: W293 blank line contains whitespace
+.\auth_system.py:845:1: W293 blank line contains whitespace
+.\auth_system.py:849:1: W293 blank line contains whitespace
+.\auth_system.py:850:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:851:1: W293 blank line contains whitespace
+.\auth_system.py:853:51: W291 trailing whitespace
+.\auth_system.py:854:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:855:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:856:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:865:1: W293 blank line contains whitespace
+.\auth_system.py:867:80: E501 line too long (93 > 79 characters)
+.\auth_system.py:869:1: W293 blank line contains whitespace
+.\auth_system.py:873:80: E501 line too long (91 > 79 characters)
+.\auth_system.py:875:1: W293 blank line contains whitespace
+.\auth_system.py:877:1: W293 blank line contains whitespace
+.\auth_system.py:878:48: W291 trailing whitespace
+.\auth_system.py:879:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:879:80: E501 line too long (83 > 79 characters)
+.\auth_system.py:880:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:880:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:881:1: W293 blank line contains whitespace
+.\auth_system.py:882:80: E501 line too long (84 > 79 characters)
+.\auth_system.py:883:1: W293 blank line contains whitespace
+.\auth_system.py:887:80: E501 line too long (97 > 79 characters)
+.\auth_system.py:889:80: E501 line too long (92 > 79 characters)
+.\auth_system.py:896:80: E501 line too long (95 > 79 characters)
+.\auth_system.py:900:80: E501 line too long (89 > 79 characters)
+.\auth_system.py:905:1: W293 blank line contains whitespace
+.\auth_system.py:907:80: E501 line too long (87 > 79 characters)
+.\auth_system.py:909:1: W293 blank line contains whitespace
+.\auth_system.py:910:80: E501 line too long (82 > 79 characters)
+.\auth_system.py:912:50: W291 trailing whitespace
+.\auth_system.py:913:31: E128 continuation line under-indented for visual indent
+.\auth_system.py:913:80: E501 line too long (99 > 79 characters)
+.\auth_system.py:917:56: W291 trailing whitespace
+.\auth_system.py:918:32: E128 continuation line under-indented for visual indent
+.\auth_system.py:919:32: E128 continuation line under-indented for visual indent
+.\auth_system.py:919:80: E501 line too long (92 > 79 characters)
+.\auth_system.py:923:80: E501 line too long (80 > 79 characters)
+.\auth_system.py:925:80: E501 line too long (93 > 79 characters)
+.\auth_system.py:928:80: E501 line too long (95 > 79 characters)
+.\auth_system.py:947:1: E302 expected 2 blank lines, found 1
+.\auth_system.py:951:1: W293 blank line contains whitespace
+.\auth_system.py:954:5: F841 local variable 'auth_app' is assigned to but never used
+.\auth_system.py:957:1: E305 expected 2 blank lines after class or function definition, found 1
+.\auth_system.py:958:11: W292 no newline at end of file
+.\backup\auth_system.py:3:1: F401 'tkinter.ttk' imported but unused
+.\backup\auth_system.py:7:1: F401 'secrets' imported but unused
+.\backup\auth_system.py:16:1: E302 expected 2 blank lines, found 1
+.\backup\auth_system.py:25:1: W293 blank line contains whitespace
+.\backup\auth_system.py:29:1: W293 blank line contains whitespace
+.\backup\auth_system.py:38:1: W293 blank line contains whitespace
+.\backup\auth_system.py:42:80: E501 line too long (100 > 79 characters)
+.\backup\auth_system.py:43:80: E501 line too long (158 > 79 characters)
+.\backup\auth_system.py:44:80: E501 line too long (96 > 79 characters)
+.\backup\auth_system.py:45:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:46:1: W293 blank line contains whitespace
+.\backup\auth_system.py:48:80: E501 line too long (94 > 79 characters)
+.\backup\auth_system.py:48:95: W291 trailing whitespace
+.\backup\auth_system.py:49:80: E501 line too long (90 > 79 characters)
+.\backup\auth_system.py:50:1: W293 blank line contains whitespace
+.\backup\auth_system.py:52:80: E501 line too long (108 > 79 characters)
+.\backup\auth_system.py:52:109: W291 trailing whitespace
+.\backup\auth_system.py:53:80: E501 line too long (119 > 79 characters)
+.\backup\auth_system.py:57:1: W293 blank line contains whitespace
+.\backup\auth_system.py:60:80: E501 line too long (85 > 79 characters)
+.\backup\auth_system.py:62:1: W293 blank line contains whitespace
+.\backup\auth_system.py:63:80: E501 line too long (93 > 79 characters)
+.\backup\auth_system.py:64:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:65:80: E501 line too long (96 > 79 characters)
+.\backup\auth_system.py:71:1: W293 blank line contains whitespace
+.\backup\auth_system.py:73:1: W293 blank line contains whitespace
+.\backup\auth_system.py:75:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:77:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:80:1: W293 blank line contains whitespace
+.\backup\auth_system.py:83:1: W293 blank line contains whitespace
+.\backup\auth_system.py:87:55: W291 trailing whitespace
+.\backup\auth_system.py:88:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:88:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:89:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:90:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:100:1: W293 blank line contains whitespace
+.\backup\auth_system.py:103:80: E501 line too long (100 > 79 characters)
+.\backup\auth_system.py:104:80: E501 line too long (158 > 79 characters)
+.\backup\auth_system.py:105:80: E501 line too long (96 > 79 characters)
+.\backup\auth_system.py:107:1: W293 blank line contains whitespace
+.\backup\auth_system.py:109:80: E501 line too long (132 > 79 characters)
+.\backup\auth_system.py:110:1: W293 blank line contains whitespace
+.\backup\auth_system.py:111:80: E501 line too long (105 > 79 characters)
+.\backup\auth_system.py:112:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:121:1: W293 blank line contains whitespace
+.\backup\auth_system.py:123:80: E501 line too long (107 > 79 characters)
+.\backup\auth_system.py:129:1: W293 blank line contains whitespace
+.\backup\auth_system.py:130:80: E501 line too long (93 > 79 characters)
+.\backup\auth_system.py:131:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:132:80: E501 line too long (96 > 79 characters)
+.\backup\auth_system.py:138:1: W293 blank line contains whitespace
+.\backup\auth_system.py:140:1: W293 blank line contains whitespace
+.\backup\auth_system.py:141:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:143:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:146:1: W293 blank line contains whitespace
+.\backup\auth_system.py:149:1: W293 blank line contains whitespace
+.\backup\auth_system.py:153:1: W293 blank line contains whitespace
+.\backup\auth_system.py:162:1: W293 blank line contains whitespace
+.\backup\auth_system.py:167:1: W293 blank line contains whitespace
+.\backup\auth_system.py:171:1: W293 blank line contains whitespace
+.\backup\auth_system.py:173:1: W293 blank line contains whitespace
+.\backup\auth_system.py:178:1: W293 blank line contains whitespace
+.\backup\auth_system.py:182:1: W293 blank line contains whitespace
+.\backup\auth_system.py:187:1: W293 blank line contains whitespace
+.\backup\auth_system.py:192:1: W293 blank line contains whitespace
+.\backup\auth_system.py:195:1: E302 expected 2 blank lines, found 1
+.\backup\auth_system.py:200:1: W293 blank line contains whitespace
+.\backup\auth_system.py:204:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:207:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:213:1: W293 blank line contains whitespace
+.\backup\auth_system.py:234:1: W293 blank line contains whitespace
+.\backup\auth_system.py:243:1: W293 blank line contains whitespace
+.\backup\auth_system.py:246:1: W293 blank line contains whitespace
+.\backup\auth_system.py:249:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:251:1: W293 blank line contains whitespace
+.\backup\auth_system.py:254:1: W293 blank line contains whitespace
+.\backup\auth_system.py:257:1: W293 blank line contains whitespace
+.\backup\auth_system.py:260:1: W293 blank line contains whitespace
+.\backup\auth_system.py:264:1: W293 blank line contains whitespace
+.\backup\auth_system.py:271:1: W293 blank line contains whitespace
+.\backup\auth_system.py:276:1: W293 blank line contains whitespace
+.\backup\auth_system.py:279:1: W293 blank line contains whitespace
+.\backup\auth_system.py:283:1: W293 blank line contains whitespace
+.\backup\auth_system.py:286:80: E501 line too long (125 > 79 characters)
+.\backup\auth_system.py:287:1: W293 blank line contains whitespace
+.\backup\auth_system.py:295:1: W293 blank line contains whitespace
+.\backup\auth_system.py:297:1: W293 blank line contains whitespace
+.\backup\auth_system.py:301:1: W293 blank line contains whitespace
+.\backup\auth_system.py:305:1: W293 blank line contains whitespace
+.\backup\auth_system.py:307:1: W293 blank line contains whitespace
+.\backup\auth_system.py:312:1: W293 blank line contains whitespace
+.\backup\auth_system.py:327:1: E302 expected 2 blank lines, found 1
+.\backup\auth_system.py:333:1: W293 blank line contains whitespace
+.\backup\auth_system.py:340:1: W293 blank line contains whitespace
+.\backup\auth_system.py:342:1: W293 blank line contains whitespace
+.\backup\auth_system.py:346:1: W293 blank line contains whitespace
+.\backup\auth_system.py:350:1: W293 blank line contains whitespace
+.\backup\auth_system.py:354:1: W293 blank line contains whitespace
+.\backup\auth_system.py:355:80: E501 line too long (101 > 79 characters)
+.\backup\auth_system.py:357:1: W293 blank line contains whitespace
+.\backup\auth_system.py:358:75: W291 trailing whitespace
+.\backup\auth_system.py:359:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:359:80: E501 line too long (85 > 79 characters)
+.\backup\auth_system.py:361:1: W293 blank line contains whitespace
+.\backup\auth_system.py:362:80: E501 line too long (91 > 79 characters)
+.\backup\auth_system.py:362:92: W291 trailing whitespace
+.\backup\auth_system.py:363:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:363:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:365:1: W293 blank line contains whitespace
+.\backup\auth_system.py:369:1: W293 blank line contains whitespace
+.\backup\auth_system.py:371:70: W291 trailing whitespace
+.\backup\auth_system.py:372:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:372:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:374:1: W293 blank line contains whitespace
+.\backup\auth_system.py:377:1: W293 blank line contains whitespace
+.\backup\auth_system.py:378:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:378:84: W291 trailing whitespace
+.\backup\auth_system.py:379:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:380:1: W293 blank line contains whitespace
+.\backup\auth_system.py:381:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:381:84: W291 trailing whitespace
+.\backup\auth_system.py:382:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:383:1: W293 blank line contains whitespace
+.\backup\auth_system.py:384:70: W291 trailing whitespace
+.\backup\auth_system.py:385:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:385:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:386:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:387:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:391:1: W293 blank line contains whitespace
+.\backup\auth_system.py:393:71: W291 trailing whitespace
+.\backup\auth_system.py:394:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:394:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:396:1: W293 blank line contains whitespace
+.\backup\auth_system.py:399:1: W293 blank line contains whitespace
+.\backup\auth_system.py:400:80: W291 trailing whitespace
+.\backup\auth_system.py:401:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:402:1: W293 blank line contains whitespace
+.\backup\auth_system.py:403:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:403:82: W291 trailing whitespace
+.\backup\auth_system.py:404:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:405:1: W293 blank line contains whitespace
+.\backup\auth_system.py:406:70: W291 trailing whitespace
+.\backup\auth_system.py:407:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:407:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:408:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:409:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:411:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:412:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:413:1: W293 blank line contains whitespace
+.\backup\auth_system.py:416:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:416:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:418:1: W293 blank line contains whitespace
+.\backup\auth_system.py:421:1: W293 blank line contains whitespace
+.\backup\auth_system.py:422:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:422:81: W291 trailing whitespace
+.\backup\auth_system.py:423:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:424:1: W293 blank line contains whitespace
+.\backup\auth_system.py:427:1: W293 blank line contains whitespace
+.\backup\auth_system.py:430:74: W291 trailing whitespace
+.\backup\auth_system.py:431:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:432:75: W291 trailing whitespace
+.\backup\auth_system.py:433:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:434:1: W293 blank line contains whitespace
+.\backup\auth_system.py:437:72: W291 trailing whitespace
+.\backup\auth_system.py:438:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:439:72: W291 trailing whitespace
+.\backup\auth_system.py:440:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:447:1: W293 blank line contains whitespace
+.\backup\auth_system.py:449:1: W293 blank line contains whitespace
+.\backup\auth_system.py:453:1: W293 blank line contains whitespace
+.\backup\auth_system.py:457:1: W293 blank line contains whitespace
+.\backup\auth_system.py:458:77: W291 trailing whitespace
+.\backup\auth_system.py:459:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:459:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:460:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:464:1: W293 blank line contains whitespace
+.\backup\auth_system.py:465:80: E501 line too long (101 > 79 characters)
+.\backup\auth_system.py:467:1: W293 blank line contains whitespace
+.\backup\auth_system.py:468:72: W291 trailing whitespace
+.\backup\auth_system.py:469:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:469:80: E501 line too long (85 > 79 characters)
+.\backup\auth_system.py:471:1: W293 blank line contains whitespace
+.\backup\auth_system.py:473:74: W291 trailing whitespace
+.\backup\auth_system.py:474:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:474:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:476:1: W293 blank line contains whitespace
+.\backup\auth_system.py:479:1: W293 blank line contains whitespace
+.\backup\auth_system.py:483:1: W293 blank line contains whitespace
+.\backup\auth_system.py:484:78: W291 trailing whitespace
+.\backup\auth_system.py:485:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:486:1: W293 blank line contains whitespace
+.\backup\auth_system.py:488:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:488:89: W291 trailing whitespace
+.\backup\auth_system.py:489:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:489:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:490:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:490:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:491:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:494:1: W293 blank line contains whitespace
+.\backup\auth_system.py:498:1: W293 blank line contains whitespace
+.\backup\auth_system.py:499:80: W291 trailing whitespace
+.\backup\auth_system.py:500:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:501:1: W293 blank line contains whitespace
+.\backup\auth_system.py:503:80: W291 trailing whitespace
+.\backup\auth_system.py:504:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:505:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:506:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:508:1: W293 blank line contains whitespace
+.\backup\auth_system.py:512:1: W293 blank line contains whitespace
+.\backup\auth_system.py:513:78: W291 trailing whitespace
+.\backup\auth_system.py:514:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:515:1: W293 blank line contains whitespace
+.\backup\auth_system.py:517:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:517:89: W291 trailing whitespace
+.\backup\auth_system.py:518:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:518:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:519:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:519:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:520:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:522:1: W293 blank line contains whitespace
+.\backup\auth_system.py:524:46: W291 trailing whitespace
+.\backup\auth_system.py:525:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:525:80: E501 line too long (132 > 79 characters)
+.\backup\auth_system.py:526:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:526:80: E501 line too long (92 > 79 characters)
+.\backup\auth_system.py:528:1: W293 blank line contains whitespace
+.\backup\auth_system.py:530:70: W291 trailing whitespace
+.\backup\auth_system.py:531:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:531:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:532:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:533:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:535:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:536:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:537:1: W293 blank line contains whitespace
+.\backup\auth_system.py:540:1: W293 blank line contains whitespace
+.\backup\auth_system.py:544:1: W293 blank line contains whitespace
+.\backup\auth_system.py:545:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:545:85: W291 trailing whitespace
+.\backup\auth_system.py:546:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:547:1: W293 blank line contains whitespace
+.\backup\auth_system.py:548:80: E501 line too long (91 > 79 characters)
+.\backup\auth_system.py:548:92: W291 trailing whitespace
+.\backup\auth_system.py:549:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:552:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:553:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:560:1: W293 blank line contains whitespace
+.\backup\auth_system.py:562:1: W293 blank line contains whitespace
+.\backup\auth_system.py:566:1: W293 blank line contains whitespace
+.\backup\auth_system.py:570:1: W293 blank line contains whitespace
+.\backup\auth_system.py:571:77: W291 trailing whitespace
+.\backup\auth_system.py:572:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:572:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:573:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:575:1: W293 blank line contains whitespace
+.\backup\auth_system.py:576:80: E501 line too long (101 > 79 characters)
+.\backup\auth_system.py:578:1: W293 blank line contains whitespace
+.\backup\auth_system.py:579:75: W291 trailing whitespace
+.\backup\auth_system.py:580:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:580:80: E501 line too long (85 > 79 characters)
+.\backup\auth_system.py:582:1: W293 blank line contains whitespace
+.\backup\auth_system.py:584:73: W291 trailing whitespace
+.\backup\auth_system.py:585:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:585:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:587:1: W293 blank line contains whitespace
+.\backup\auth_system.py:590:1: W293 blank line contains whitespace
+.\backup\auth_system.py:594:1: W293 blank line contains whitespace
+.\backup\auth_system.py:595:78: W291 trailing whitespace
+.\backup\auth_system.py:596:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:597:1: W293 blank line contains whitespace
+.\backup\auth_system.py:599:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:599:88: W291 trailing whitespace
+.\backup\auth_system.py:600:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:600:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:601:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:601:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:602:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:605:1: W293 blank line contains whitespace
+.\backup\auth_system.py:609:1: W293 blank line contains whitespace
+.\backup\auth_system.py:610:78: W291 trailing whitespace
+.\backup\auth_system.py:611:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:612:1: W293 blank line contains whitespace
+.\backup\auth_system.py:614:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:614:88: W291 trailing whitespace
+.\backup\auth_system.py:615:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:615:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:616:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:616:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:617:34: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:619:1: W293 blank line contains whitespace
+.\backup\auth_system.py:621:69: W291 trailing whitespace
+.\backup\auth_system.py:622:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:622:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:623:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:624:30: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:628:1: W293 blank line contains whitespace
+.\backup\auth_system.py:631:1: W293 blank line contains whitespace
+.\backup\auth_system.py:635:1: W293 blank line contains whitespace
+.\backup\auth_system.py:636:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:636:83: W291 trailing whitespace
+.\backup\auth_system.py:637:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:638:1: W293 blank line contains whitespace
+.\backup\auth_system.py:639:80: E501 line too long (94 > 79 characters)
+.\backup\auth_system.py:639:95: W291 trailing whitespace
+.\backup\auth_system.py:640:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:643:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:644:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:646:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:654:1: W293 blank line contains whitespace
+.\backup\auth_system.py:658:1: W293 blank line contains whitespace
+.\backup\auth_system.py:659:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:660:1: W293 blank line contains whitespace
+.\backup\auth_system.py:662:51: W291 trailing whitespace
+.\backup\auth_system.py:663:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:664:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:665:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:674:1: W293 blank line contains whitespace
+.\backup\auth_system.py:676:80: E501 line too long (93 > 79 characters)
+.\backup\auth_system.py:678:1: W293 blank line contains whitespace
+.\backup\auth_system.py:682:80: E501 line too long (91 > 79 characters)
+.\backup\auth_system.py:684:1: W293 blank line contains whitespace
+.\backup\auth_system.py:686:1: W293 blank line contains whitespace
+.\backup\auth_system.py:688:48: W291 trailing whitespace
+.\backup\auth_system.py:689:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:689:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:690:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:690:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:691:1: W293 blank line contains whitespace
+.\backup\auth_system.py:693:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:694:1: W293 blank line contains whitespace
+.\backup\auth_system.py:698:80: E501 line too long (97 > 79 characters)
+.\backup\auth_system.py:700:80: E501 line too long (92 > 79 characters)
+.\backup\auth_system.py:707:1: W293 blank line contains whitespace
+.\backup\auth_system.py:709:1: W293 blank line contains whitespace
+.\backup\auth_system.py:713:1: W293 blank line contains whitespace
+.\backup\auth_system.py:717:1: W293 blank line contains whitespace
+.\backup\auth_system.py:718:80: E501 line too long (101 > 79 characters)
+.\backup\auth_system.py:720:1: W293 blank line contains whitespace
+.\backup\auth_system.py:721:79: W291 trailing whitespace
+.\backup\auth_system.py:722:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:722:80: E501 line too long (85 > 79 characters)
+.\backup\auth_system.py:724:1: W293 blank line contains whitespace
+.\backup\auth_system.py:726:71: W291 trailing whitespace
+.\backup\auth_system.py:727:28: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:729:1: W293 blank line contains whitespace
+.\backup\auth_system.py:732:1: W293 blank line contains whitespace
+.\backup\auth_system.py:734:43: W291 trailing whitespace
+.\backup\auth_system.py:735:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:735:80: E501 line too long (88 > 79 characters)
+.\backup\auth_system.py:736:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:737:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:739:1: W293 blank line contains whitespace
+.\backup\auth_system.py:743:1: W293 blank line contains whitespace
+.\backup\auth_system.py:744:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:744:84: W291 trailing whitespace
+.\backup\auth_system.py:745:17: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:746:1: W293 blank line contains whitespace
+.\backup\auth_system.py:748:68: W291 trailing whitespace
+.\backup\auth_system.py:749:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:749:80: E501 line too long (84 > 79 characters)
+.\backup\auth_system.py:750:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:751:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:751:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:754:1: W293 blank line contains whitespace
+.\backup\auth_system.py:756:64: W291 trailing whitespace
+.\backup\auth_system.py:757:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:757:80: E501 line too long (83 > 79 characters)
+.\backup\auth_system.py:758:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:759:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:761:1: W293 blank line contains whitespace
+.\backup\auth_system.py:763:64: W291 trailing whitespace
+.\backup\auth_system.py:764:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:765:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:766:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:766:80: E501 line too long (89 > 79 characters)
+.\backup\auth_system.py:768:1: W293 blank line contains whitespace
+.\backup\auth_system.py:770:64: W291 trailing whitespace
+.\backup\auth_system.py:771:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:772:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:773:29: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:775:1: W293 blank line contains whitespace
+.\backup\auth_system.py:777:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:778:1: W293 blank line contains whitespace
+.\backup\auth_system.py:781:70: W291 trailing whitespace
+.\backup\auth_system.py:782:40: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:791:80: E501 line too long (95 > 79 characters)
+.\backup\auth_system.py:795:80: E501 line too long (89 > 79 characters)
+.\backup\auth_system.py:800:1: W293 blank line contains whitespace
+.\backup\auth_system.py:802:80: E501 line too long (87 > 79 characters)
+.\backup\auth_system.py:804:1: W293 blank line contains whitespace
+.\backup\auth_system.py:805:80: E501 line too long (82 > 79 characters)
+.\backup\auth_system.py:807:50: W291 trailing whitespace
+.\backup\auth_system.py:808:31: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:808:80: E501 line too long (99 > 79 characters)
+.\backup\auth_system.py:812:56: W291 trailing whitespace
+.\backup\auth_system.py:813:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:814:32: E128 continuation line under-indented for visual indent
+.\backup\auth_system.py:814:80: E501 line too long (92 > 79 characters)
+.\backup\auth_system.py:818:80: E501 line too long (80 > 79 characters)
+.\backup\auth_system.py:820:80: E501 line too long (93 > 79 characters)
+.\backup\auth_system.py:823:80: E501 line too long (95 > 79 characters)
+.\backup\auth_system.py:829:80: E501 line too long (81 > 79 characters)
+.\backup\auth_system.py:842:1: E302 expected 2 blank lines, found 1
+.\backup\auth_system.py:846:1: W293 blank line contains whitespace
+.\backup\auth_system.py:849:5: F841 local variable 'auth_app' is assigned to but never used
+.\backup\auth_system.py:852:1: E305 expected 2 blank lines after class or function definition, found 1
+.\backup\auth_system.py:853:11: W292 no newline at end of file
+.\backup\password_strength_checker.py:6:1: F401 'json' imported but unused
+.\backup\password_strength_checker.py:11:1: F401 'os' imported but unused
+.\backup\password_strength_checker.py:13:1: E302 expected 2 blank lines, found 1
+.\backup\password_strength_checker.py:23:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:30:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:33:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:37:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:41:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:45:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:46:62: W291 trailing whitespace
+.\backup\password_strength_checker.py:47:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:47:80: E501 line too long (88 > 79 characters)
+.\backup\password_strength_checker.py:48:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:49:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:49:81: W291 trailing whitespace
+.\backup\password_strength_checker.py:50:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:50:80: E501 line too long (93 > 79 characters)
+.\backup\password_strength_checker.py:51:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:55:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:58:34: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:58:80: E501 line too long (85 > 79 characters)
+.\backup\password_strength_checker.py:60:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:61:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:63:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:67:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:68:58: W291 trailing whitespace
+.\backup\password_strength_checker.py:69:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:69:80: E501 line too long (90 > 79 characters)
+.\backup\password_strength_checker.py:70:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:72:75: W291 trailing whitespace
+.\backup\password_strength_checker.py:73:30: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:73:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:75:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:77:50: W291 trailing whitespace
+.\backup\password_strength_checker.py:78:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:78:80: E501 line too long (93 > 79 characters)
+.\backup\password_strength_checker.py:79:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:81:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:83:60: W291 trailing whitespace
+.\backup\password_strength_checker.py:84:31: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:84:80: E501 line too long (82 > 79 characters)
+.\backup\password_strength_checker.py:85:31: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:86:31: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:88:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:89:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:90:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:93:32: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:93:80: E501 line too long (83 > 79 characters)
+.\backup\password_strength_checker.py:95:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:99:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:102:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:105:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:108:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:111:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:116:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:120:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:121:65: W291 trailing whitespace
+.\backup\password_strength_checker.py:122:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:122:80: E501 line too long (86 > 79 characters)
+.\backup\password_strength_checker.py:123:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:127:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:129:80: E501 line too long (83 > 79 characters)
+.\backup\password_strength_checker.py:129:84: W291 trailing whitespace
+.\backup\password_strength_checker.py:130:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:130:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:131:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:131:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:131:81: W291 trailing whitespace
+.\backup\password_strength_checker.py:132:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:132:80: E501 line too long (85 > 79 characters)
+.\backup\password_strength_checker.py:135:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:137:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:138:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:139:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:141:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:145:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:146:60: W291 trailing whitespace
+.\backup\password_strength_checker.py:147:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:147:80: E501 line too long (86 > 79 characters)
+.\backup\password_strength_checker.py:148:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:150:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:151:34: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:153:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:155:77: W291 trailing whitespace
+.\backup\password_strength_checker.py:156:40: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:156:80: E501 line too long (83 > 79 characters)
+.\backup\password_strength_checker.py:158:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:162:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:163:73: W291 trailing whitespace
+.\backup\password_strength_checker.py:164:32: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:164:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:165:32: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:165:80: E501 line too long (90 > 79 characters)
+.\backup\password_strength_checker.py:167:80: E501 line too long (82 > 79 characters)
+.\backup\password_strength_checker.py:168:80: E501 line too long (82 > 79 characters)
+.\backup\password_strength_checker.py:169:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:170:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:170:82: W291 trailing whitespace
+.\backup\password_strength_checker.py:171:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:172:33: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:172:80: E501 line too long (94 > 79 characters)
+.\backup\password_strength_checker.py:174:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:175:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:176:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:180:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:181:58: W291 trailing whitespace
+.\backup\password_strength_checker.py:182:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:182:80: E501 line too long (86 > 79 characters)
+.\backup\password_strength_checker.py:183:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:185:69: W291 trailing whitespace
+.\backup\password_strength_checker.py:186:54: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:187:54: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:187:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:188:54: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:188:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:189:54: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:190:54: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:192:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:197:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:200:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:204:80: E501 line too long (82 > 79 characters)
+.\backup\password_strength_checker.py:211:80: E501 line too long (98 > 79 characters)
+.\backup\password_strength_checker.py:213:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:216:35: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:216:80: E501 line too long (86 > 79 characters)
+.\backup\password_strength_checker.py:218:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:219:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:221:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:223:20: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:225:20: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:226:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:231:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:234:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:238:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:239:74: W291 trailing whitespace
+.\backup\password_strength_checker.py:240:17: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:240:80: E501 line too long (86 > 79 characters)
+.\backup\password_strength_checker.py:241:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:244:32: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:244:80: E501 line too long (83 > 79 characters)
+.\backup\password_strength_checker.py:246:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:249:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:253:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:258:80: E501 line too long (89 > 79 characters)
+.\backup\password_strength_checker.py:259:80: E501 line too long (83 > 79 characters)
+.\backup\password_strength_checker.py:264:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:268:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:269:66: W291 trailing whitespace
+.\backup\password_strength_checker.py:270:20: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:270:80: E501 line too long (87 > 79 characters)
+.\backup\password_strength_checker.py:271:58: W291 trailing whitespace
+.\backup\password_strength_checker.py:272:20: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:273:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:277:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:279:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:279:82: W291 trailing whitespace
+.\backup\password_strength_checker.py:280:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:280:80: E501 line too long (91 > 79 characters)
+.\backup\password_strength_checker.py:281:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:282:39: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:284:80: E501 line too long (96 > 79 characters)
+.\backup\password_strength_checker.py:285:80: E501 line too long (96 > 79 characters)
+.\backup\password_strength_checker.py:286:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:288:75: W291 trailing whitespace
+.\backup\password_strength_checker.py:289:35: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:290:35: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:291:35: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:293:80: E501 line too long (88 > 79 characters)
+.\backup\password_strength_checker.py:294:80: E501 line too long (88 > 79 characters)
+.\backup\password_strength_checker.py:295:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:301:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:305:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:306:80: E501 line too long (138 > 79 characters)
+.\backup\password_strength_checker.py:308:31: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:310:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:314:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:316:67: W291 trailing whitespace
+.\backup\password_strength_checker.py:317:36: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:317:80: E501 line too long (87 > 79 characters)
+.\backup\password_strength_checker.py:318:36: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:319:36: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:321:80: E501 line too long (92 > 79 characters)
+.\backup\password_strength_checker.py:322:80: E501 line too long (92 > 79 characters)
+.\backup\password_strength_checker.py:323:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:326:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:327:30: E128 continuation line under-indented for visual indent
+.\backup\password_strength_checker.py:329:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:332:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:338:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:340:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:344:30: W291 trailing whitespace
+.\backup\password_strength_checker.py:351:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:355:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:357:80: E501 line too long (97 > 79 characters)
+.\backup\password_strength_checker.py:358:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:361:37: W291 trailing whitespace
+.\backup\password_strength_checker.py:367:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:370:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:375:13: E722 do not use bare 'except'
+.\backup\password_strength_checker.py:376:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:377:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:381:31: W291 trailing whitespace
+.\backup\password_strength_checker.py:389:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:396:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:403:80: E501 line too long (84 > 79 characters)
+.\backup\password_strength_checker.py:404:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:410:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:421:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:422:80: E501 line too long (82 > 79 characters)
+.\backup\password_strength_checker.py:424:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:427:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:435:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:441:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:447:80: E501 line too long (90 > 79 characters)
+.\backup\password_strength_checker.py:449:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:452:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:454:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:462:80: E501 line too long (81 > 79 characters)
+.\backup\password_strength_checker.py:467:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:470:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:472:80: E501 line too long (93 > 79 characters)
+.\backup\password_strength_checker.py:474:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:476:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:479:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:483:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:484:24: F541 f-string is missing placeholders
+.\backup\password_strength_checker.py:487:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:496:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:503:17: F841 local variable 'all_checks_passed' is assigned to but never used
+.\backup\password_strength_checker.py:505:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:508:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:514:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:523:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:526:24: F541 f-string is missing placeholders
+.\backup\password_strength_checker.py:528:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:532:80: E501 line too long (90 > 79 characters)
+.\backup\password_strength_checker.py:535:80: E501 line too long (87 > 79 characters)
+.\backup\password_strength_checker.py:536:80: E501 line too long (80 > 79 characters)
+.\backup\password_strength_checker.py:539:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:543:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:544:80: E501 line too long (99 > 79 characters)
+.\backup\password_strength_checker.py:546:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:552:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:559:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:569:1: E302 expected 2 blank lines, found 1
+.\backup\password_strength_checker.py:572:1: W293 blank line contains whitespace
+.\backup\password_strength_checker.py:579:1: E302 expected 2 blank lines, found 1
+.\backup\password_strength_checker.py:583:5: F841 local variable 'app' is assigned to but never used
+.\backup\password_strength_checker.py:587:1: E305 expected 2 blank lines after class or function definition, found 1
+.\backup\password_strength_checker.py:591:20: W292 no newline at end of file
+.\bandit_test.py:8:1: F401 'sys' imported but unused
+.\bandit_test.py:10:1: E302 expected 2 blank lines, found 1
+.\bandit_test.py:17:1: W293 blank line contains whitespace
+.\bandit_test.py:22:1: W293 blank line contains whitespace
+.\bandit_test.py:28:1: E305 expected 2 blank lines after class or function definition, found 1
+.\bandit_test.py:29:17: W292 no newline at end of file
+.\email_config.py:12:80: E501 line too long (86 > 79 characters)
+.\email_config.py:29:4: W292 no newline at end of file
+.\password_strength_checker.py:6:1: F401 'json' imported but unused
+.\password_strength_checker.py:13:1: E302 expected 2 blank lines, found 1
+.\password_strength_checker.py:24:1: W293 blank line contains whitespace
+.\password_strength_checker.py:29:1: W293 blank line contains whitespace
+.\password_strength_checker.py:32:80: E501 line too long (84 > 79 characters)
+.\password_strength_checker.py:33:1: W293 blank line contains whitespace
+.\password_strength_checker.py:36:1: W293 blank line contains whitespace
+.\password_strength_checker.py:44:1: W293 blank line contains whitespace
+.\password_strength_checker.py:46:1: W293 blank line contains whitespace
+.\password_strength_checker.py:52:1: W293 blank line contains whitespace
+.\password_strength_checker.py:53:80: E501 line too long (90 > 79 characters)
+.\password_strength_checker.py:55:73: W291 trailing whitespace
+.\password_strength_checker.py:56:24: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:57:1: W293 blank line contains whitespace
+.\password_strength_checker.py:60:1: W293 blank line contains whitespace
+.\password_strength_checker.py:63:1: W293 blank line contains whitespace
+.\password_strength_checker.py:66:1: W293 blank line contains whitespace
+.\password_strength_checker.py:68:1: W293 blank line contains whitespace
+.\password_strength_checker.py:74:1: W293 blank line contains whitespace
+.\password_strength_checker.py:76:1: W293 blank line contains whitespace
+.\password_strength_checker.py:78:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:80:1: W293 blank line contains whitespace
+.\password_strength_checker.py:83:80: E501 line too long (96 > 79 characters)
+.\password_strength_checker.py:84:1: W293 blank line contains whitespace
+.\password_strength_checker.py:89:1: W293 blank line contains whitespace
+.\password_strength_checker.py:91:80: E501 line too long (98 > 79 characters)
+.\password_strength_checker.py:93:1: W293 blank line contains whitespace
+.\password_strength_checker.py:96:80: E501 line too long (80 > 79 characters)
+.\password_strength_checker.py:97:1: W293 blank line contains whitespace
+.\password_strength_checker.py:101:1: W293 blank line contains whitespace
+.\password_strength_checker.py:103:80: E501 line too long (101 > 79 characters)
+.\password_strength_checker.py:105:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:107:1: W293 blank line contains whitespace
+.\password_strength_checker.py:110:1: W293 blank line contains whitespace
+.\password_strength_checker.py:111:60: W291 trailing whitespace
+.\password_strength_checker.py:112:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:112:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:113:1: W293 blank line contains whitespace
+.\password_strength_checker.py:114:64: W291 trailing whitespace
+.\password_strength_checker.py:115:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:115:80: E501 line too long (82 > 79 characters)
+.\password_strength_checker.py:116:1: W293 blank line contains whitespace
+.\password_strength_checker.py:120:1: W293 blank line contains whitespace
+.\password_strength_checker.py:121:55: W291 trailing whitespace
+.\password_strength_checker.py:122:28: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:124:1: W293 blank line contains whitespace
+.\password_strength_checker.py:127:1: W293 blank line contains whitespace
+.\password_strength_checker.py:129:80: E501 line too long (105 > 79 characters)
+.\password_strength_checker.py:131:80: E501 line too long (92 > 79 characters)
+.\password_strength_checker.py:133:1: W293 blank line contains whitespace
+.\password_strength_checker.py:136:1: W293 blank line contains whitespace
+.\password_strength_checker.py:137:59: W291 trailing whitespace
+.\password_strength_checker.py:138:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:138:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:139:1: W293 blank line contains whitespace
+.\password_strength_checker.py:141:65: W291 trailing whitespace
+.\password_strength_checker.py:142:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:142:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:143:1: W293 blank line contains whitespace
+.\password_strength_checker.py:151:1: W293 blank line contains whitespace
+.\password_strength_checker.py:155:1: W293 blank line contains whitespace
+.\password_strength_checker.py:159:80: E501 line too long (80 > 79 characters)
+.\password_strength_checker.py:160:66: W291 trailing whitespace
+.\password_strength_checker.py:161:24: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:162:42: W291 trailing whitespace
+.\password_strength_checker.py:163:18: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:164:18: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:165:1: W293 blank line contains whitespace
+.\password_strength_checker.py:168:1: W293 blank line contains whitespace
+.\password_strength_checker.py:173:1: W293 blank line contains whitespace
+.\password_strength_checker.py:176:1: W293 blank line contains whitespace
+.\password_strength_checker.py:181:1: W293 blank line contains whitespace
+.\password_strength_checker.py:184:80: E501 line too long (90 > 79 characters)
+.\password_strength_checker.py:186:1: W293 blank line contains whitespace
+.\password_strength_checker.py:191:1: W293 blank line contains whitespace
+.\password_strength_checker.py:194:1: W293 blank line contains whitespace
+.\password_strength_checker.py:198:1: W293 blank line contains whitespace
+.\password_strength_checker.py:202:1: W293 blank line contains whitespace
+.\password_strength_checker.py:205:1: W293 blank line contains whitespace
+.\password_strength_checker.py:209:1: W293 blank line contains whitespace
+.\password_strength_checker.py:210:80: E501 line too long (106 > 79 characters)
+.\password_strength_checker.py:212:80: E501 line too long (96 > 79 characters)
+.\password_strength_checker.py:214:1: W293 blank line contains whitespace
+.\password_strength_checker.py:217:1: W293 blank line contains whitespace
+.\password_strength_checker.py:218:65: W291 trailing whitespace
+.\password_strength_checker.py:219:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:219:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:220:1: W293 blank line contains whitespace
+.\password_strength_checker.py:221:80: E501 line too long (95 > 79 characters)
+.\password_strength_checker.py:221:96: W291 trailing whitespace
+.\password_strength_checker.py:222:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:222:80: E501 line too long (80 > 79 characters)
+.\password_strength_checker.py:223:1: W293 blank line contains whitespace
+.\password_strength_checker.py:227:1: W293 blank line contains whitespace
+.\password_strength_checker.py:228:80: E501 line too long (81 > 79 characters)
+.\password_strength_checker.py:228:82: W291 trailing whitespace
+.\password_strength_checker.py:229:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:230:1: W293 blank line contains whitespace
+.\password_strength_checker.py:233:1: W293 blank line contains whitespace
+.\password_strength_checker.py:235:80: E501 line too long (83 > 79 characters)
+.\password_strength_checker.py:235:84: W291 trailing whitespace
+.\password_strength_checker.py:236:39: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:236:80: E501 line too long (84 > 79 characters)
+.\password_strength_checker.py:237:39: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:237:80: E501 line too long (83 > 79 characters)
+.\password_strength_checker.py:237:84: W291 trailing whitespace
+.\password_strength_checker.py:238:39: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:238:80: E501 line too long (85 > 79 characters)
+.\password_strength_checker.py:239:80: E501 line too long (94 > 79 characters)
+.\password_strength_checker.py:241:1: W293 blank line contains whitespace
+.\password_strength_checker.py:244:80: E501 line too long (84 > 79 characters)
+.\password_strength_checker.py:245:33: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:246:33: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:246:79: W291 trailing whitespace
+.\password_strength_checker.py:247:33: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:249:1: W293 blank line contains whitespace
+.\password_strength_checker.py:253:1: W293 blank line contains whitespace
+.\password_strength_checker.py:256:1: W293 blank line contains whitespace
+.\password_strength_checker.py:257:61: W291 trailing whitespace
+.\password_strength_checker.py:258:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:258:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:259:1: W293 blank line contains whitespace
+.\password_strength_checker.py:261:80: E501 line too long (87 > 79 characters)
+.\password_strength_checker.py:262:39: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:262:80: E501 line too long (94 > 79 characters)
+.\password_strength_checker.py:264:1: W293 blank line contains whitespace
+.\password_strength_checker.py:268:1: W293 blank line contains whitespace
+.\password_strength_checker.py:269:79: W291 trailing whitespace
+.\password_strength_checker.py:270:41: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:272:1: W293 blank line contains whitespace
+.\password_strength_checker.py:277:1: W293 blank line contains whitespace
+.\password_strength_checker.py:281:1: W293 blank line contains whitespace
+.\password_strength_checker.py:288:1: W293 blank line contains whitespace
+.\password_strength_checker.py:290:80: E501 line too long (83 > 79 characters)
+.\password_strength_checker.py:295:1: W293 blank line contains whitespace
+.\password_strength_checker.py:302:1: W293 blank line contains whitespace
+.\password_strength_checker.py:306:1: W293 blank line contains whitespace
+.\password_strength_checker.py:309:1: W293 blank line contains whitespace
+.\password_strength_checker.py:313:1: W293 blank line contains whitespace
+.\password_strength_checker.py:314:80: E501 line too long (110 > 79 characters)
+.\password_strength_checker.py:316:80: E501 line too long (97 > 79 characters)
+.\password_strength_checker.py:318:1: W293 blank line contains whitespace
+.\password_strength_checker.py:319:67: W291 trailing whitespace
+.\password_strength_checker.py:320:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:320:80: E501 line too long (105 > 79 characters)
+.\password_strength_checker.py:321:1: W293 blank line contains whitespace
+.\password_strength_checker.py:329:1: W293 blank line contains whitespace
+.\password_strength_checker.py:331:80: E501 line too long (99 > 79 characters)
+.\password_strength_checker.py:336:1: W293 blank line contains whitespace
+.\password_strength_checker.py:339:1: W293 blank line contains whitespace
+.\password_strength_checker.py:344:1: W293 blank line contains whitespace
+.\password_strength_checker.py:347:1: W293 blank line contains whitespace
+.\password_strength_checker.py:351:1: W293 blank line contains whitespace
+.\password_strength_checker.py:352:52: W291 trailing whitespace
+.\password_strength_checker.py:353:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:353:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:354:1: W293 blank line contains whitespace
+.\password_strength_checker.py:355:77: W291 trailing whitespace
+.\password_strength_checker.py:356:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:356:80: E501 line too long (96 > 79 characters)
+.\password_strength_checker.py:357:1: W293 blank line contains whitespace
+.\password_strength_checker.py:361:1: W293 blank line contains whitespace
+.\password_strength_checker.py:363:76: W291 trailing whitespace
+.\password_strength_checker.py:364:38: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:366:1: W293 blank line contains whitespace
+.\password_strength_checker.py:370:75: W291 trailing whitespace
+.\password_strength_checker.py:371:38: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:373:1: W293 blank line contains whitespace
+.\password_strength_checker.py:375:67: W291 trailing whitespace
+.\password_strength_checker.py:376:38: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:378:1: W293 blank line contains whitespace
+.\password_strength_checker.py:381:80: E501 line too long (90 > 79 characters)
+.\password_strength_checker.py:382:80: E501 line too long (93 > 79 characters)
+.\password_strength_checker.py:383:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:384:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:385:80: E501 line too long (82 > 79 characters)
+.\password_strength_checker.py:386:80: E501 line too long (87 > 79 characters)
+.\password_strength_checker.py:388:1: W293 blank line contains whitespace
+.\password_strength_checker.py:392:1: W293 blank line contains whitespace
+.\password_strength_checker.py:396:1: W293 blank line contains whitespace
+.\password_strength_checker.py:399:1: W293 blank line contains whitespace
+.\password_strength_checker.py:401:80: E501 line too long (93 > 79 characters)
+.\password_strength_checker.py:405:1: W293 blank line contains whitespace
+.\password_strength_checker.py:407:67: W291 trailing whitespace
+.\password_strength_checker.py:408:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:409:1: W293 blank line contains whitespace
+.\password_strength_checker.py:411:58: W291 trailing whitespace
+.\password_strength_checker.py:412:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:413:1: W293 blank line contains whitespace
+.\password_strength_checker.py:415:1: W293 blank line contains whitespace
+.\password_strength_checker.py:419:1: W293 blank line contains whitespace
+.\password_strength_checker.py:422:1: W293 blank line contains whitespace
+.\password_strength_checker.py:426:1: W293 blank line contains whitespace
+.\password_strength_checker.py:430:1: W293 blank line contains whitespace
+.\password_strength_checker.py:431:69: W291 trailing whitespace
+.\password_strength_checker.py:432:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:433:1: W293 blank line contains whitespace
+.\password_strength_checker.py:434:66: W291 trailing whitespace
+.\password_strength_checker.py:435:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:436:1: W293 blank line contains whitespace
+.\password_strength_checker.py:438:1: W293 blank line contains whitespace
+.\password_strength_checker.py:443:1: W293 blank line contains whitespace
+.\password_strength_checker.py:446:1: W293 blank line contains whitespace
+.\password_strength_checker.py:450:1: W293 blank line contains whitespace
+.\password_strength_checker.py:451:46: W291 trailing whitespace
+.\password_strength_checker.py:452:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:452:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:453:1: W293 blank line contains whitespace
+.\password_strength_checker.py:454:77: W291 trailing whitespace
+.\password_strength_checker.py:455:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:455:80: E501 line too long (96 > 79 characters)
+.\password_strength_checker.py:456:1: W293 blank line contains whitespace
+.\password_strength_checker.py:460:1: W293 blank line contains whitespace
+.\password_strength_checker.py:463:1: W293 blank line contains whitespace
+.\password_strength_checker.py:467:1: W293 blank line contains whitespace
+.\password_strength_checker.py:469:80: E501 line too long (104 > 79 characters)
+.\password_strength_checker.py:471:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:473:1: W293 blank line contains whitespace
+.\password_strength_checker.py:477:1: W293 blank line contains whitespace
+.\password_strength_checker.py:478:52: W291 trailing whitespace
+.\password_strength_checker.py:479:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:479:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:480:1: W293 blank line contains whitespace
+.\password_strength_checker.py:482:70: W291 trailing whitespace
+.\password_strength_checker.py:483:17: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:483:80: E501 line too long (103 > 79 characters)
+.\password_strength_checker.py:484:1: W293 blank line contains whitespace
+.\password_strength_checker.py:486:80: E501 line too long (85 > 79 characters)
+.\password_strength_checker.py:487:1: W293 blank line contains whitespace
+.\password_strength_checker.py:494:80: E501 line too long (84 > 79 characters)
+.\password_strength_checker.py:499:1: W293 blank line contains whitespace
+.\password_strength_checker.py:503:1: W293 blank line contains whitespace
+.\password_strength_checker.py:504:69: W291 trailing whitespace
+.\password_strength_checker.py:505:20: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:505:80: E501 line too long (85 > 79 characters)
+.\password_strength_checker.py:506:1: W293 blank line contains whitespace
+.\password_strength_checker.py:507:61: W291 trailing whitespace
+.\password_strength_checker.py:508:20: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:509:1: W293 blank line contains whitespace
+.\password_strength_checker.py:513:1: W293 blank line contains whitespace
+.\password_strength_checker.py:520:1: W293 blank line contains whitespace
+.\password_strength_checker.py:527:1: W293 blank line contains whitespace
+.\password_strength_checker.py:533:1: W293 blank line contains whitespace
+.\password_strength_checker.py:536:1: W293 blank line contains whitespace
+.\password_strength_checker.py:538:80: E501 line too long (80 > 79 characters)
+.\password_strength_checker.py:540:31: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:542:1: W293 blank line contains whitespace
+.\password_strength_checker.py:545:80: E501 line too long (81 > 79 characters)
+.\password_strength_checker.py:546:30: E128 continuation line under-indented for visual indent
+.\password_strength_checker.py:548:1: W293 blank line contains whitespace
+.\password_strength_checker.py:550:1: W293 blank line contains whitespace
+.\password_strength_checker.py:556:80: E501 line too long (81 > 79 characters)
+.\password_strength_checker.py:558:1: W293 blank line contains whitespace
+.\password_strength_checker.py:565:1: W293 blank line contains whitespace
+.\password_strength_checker.py:570:1: W293 blank line contains whitespace
+.\password_strength_checker.py:578:80: E501 line too long (84 > 79 characters)
+.\password_strength_checker.py:579:1: W293 blank line contains whitespace
+.\password_strength_checker.py:585:1: W293 blank line contains whitespace
+.\password_strength_checker.py:596:1: W293 blank line contains whitespace
+.\password_strength_checker.py:597:80: E501 line too long (82 > 79 characters)
+.\password_strength_checker.py:599:1: W293 blank line contains whitespace
+.\password_strength_checker.py:602:1: W293 blank line contains whitespace
+.\password_strength_checker.py:610:1: W293 blank line contains whitespace
+.\password_strength_checker.py:616:1: W293 blank line contains whitespace
+.\password_strength_checker.py:622:1: W293 blank line contains whitespace
+.\password_strength_checker.py:624:1: W293 blank line contains whitespace
+.\password_strength_checker.py:632:1: W293 blank line contains whitespace
+.\password_strength_checker.py:636:1: W293 blank line contains whitespace
+.\password_strength_checker.py:645:1: W293 blank line contains whitespace
+.\password_strength_checker.py:648:1: W293 blank line contains whitespace
+.\password_strength_checker.py:650:1: W293 blank line contains whitespace
+.\password_strength_checker.py:658:80: E501 line too long (81 > 79 characters)
+.\password_strength_checker.py:663:1: W293 blank line contains whitespace
+.\password_strength_checker.py:672:1: W293 blank line contains whitespace
+.\password_strength_checker.py:675:1: W293 blank line contains whitespace
+.\password_strength_checker.py:677:80: E501 line too long (93 > 79 characters)
+.\password_strength_checker.py:679:1: W293 blank line contains whitespace
+.\password_strength_checker.py:682:1: W293 blank line contains whitespace
+.\password_strength_checker.py:684:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:686:1: W293 blank line contains whitespace
+.\password_strength_checker.py:690:1: W293 blank line contains whitespace
+.\password_strength_checker.py:692:80: E501 line too long (88 > 79 characters)
+.\password_strength_checker.py:693:80: E501 line too long (83 > 79 characters)
+.\password_strength_checker.py:694:1: W293 blank line contains whitespace
+.\password_strength_checker.py:703:1: W293 blank line contains whitespace
+.\password_strength_checker.py:706:80: E501 line too long (92 > 79 characters)
+.\password_strength_checker.py:708:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:709:1: W293 blank line contains whitespace
+.\password_strength_checker.py:711:1: W293 blank line contains whitespace
+.\password_strength_checker.py:714:1: W293 blank line contains whitespace
+.\password_strength_checker.py:716:80: E501 line too long (106 > 79 characters)
+.\password_strength_checker.py:718:80: E501 line too long (103 > 79 characters)
+.\password_strength_checker.py:719:1: W293 blank line contains whitespace
+.\password_strength_checker.py:722:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:724:80: E501 line too long (80 > 79 characters)
+.\password_strength_checker.py:726:80: E501 line too long (91 > 79 characters)
+.\password_strength_checker.py:727:1: W293 blank line contains whitespace
+.\password_strength_checker.py:732:1: W293 blank line contains whitespace
+.\password_strength_checker.py:736:80: E501 line too long (108 > 79 characters)
+.\password_strength_checker.py:737:80: E501 line too long (89 > 79 characters)
+.\password_strength_checker.py:739:80: E501 line too long (113 > 79 characters)
+.\password_strength_checker.py:740:80: E501 line too long (111 > 79 characters)
+.\password_strength_checker.py:742:80: E501 line too long (104 > 79 characters)
+.\password_strength_checker.py:743:1: W293 blank line contains whitespace
+.\password_strength_checker.py:744:80: E501 line too long (99 > 79 characters)
+.\password_strength_checker.py:745:80: E501 line too long (94 > 79 characters)
+.\password_strength_checker.py:746:1: W293 blank line contains whitespace
+.\password_strength_checker.py:752:1: W293 blank line contains whitespace
+.\password_strength_checker.py:759:1: W293 blank line contains whitespace
+.\password_strength_checker.py:763:30: W291 trailing whitespace
+.\password_strength_checker.py:770:1: W293 blank line contains whitespace
+.\password_strength_checker.py:774:1: W293 blank line contains whitespace
+.\password_strength_checker.py:775:80: E501 line too long (97 > 79 characters)
+.\password_strength_checker.py:776:1: W293 blank line contains whitespace
+.\password_strength_checker.py:778:37: W291 trailing whitespace
+.\password_strength_checker.py:784:1: W293 blank line contains whitespace
+.\password_strength_checker.py:786:1: W293 blank line contains whitespace
+.\password_strength_checker.py:790:13: E722 do not use bare 'except'
+.\password_strength_checker.py:792:1: W293 blank line contains whitespace
+.\password_strength_checker.py:796:31: W291 trailing whitespace
+.\password_strength_checker.py:804:1: W293 blank line contains whitespace
+.\password_strength_checker.py:813:1: E302 expected 2 blank lines, found 1
+.\password_strength_checker.py:816:5: F841 local variable 'app' is assigned to but never used
+.\password_strength_checker.py:819:1: E305 expected 2 blank lines after class or function definition, found 1
+.\password_strength_checker.py:822:20: W292 no newline at end of file
+.\pytest_security.py:6:1: E302 expected 2 blank lines, found 1
+.\pytest_security.py:10:80: E501 line too long (80 > 79 characters)
+.\pytest_security.py:16:1: E302 expected 2 blank lines, found 1
+242   E128 continuation line under-indented for visual indent
+16    E302 expected 2 blank lines, found 1
+5     E305 expected 2 blank lines after class or function definition, found 1
+369   E501 line too long (100 > 79 characters)
+2     E722 do not use bare 'except'
+8     F401 'tkinter.ttk' imported but unused
+2     F541 f-string is missing placeholders
+6     F841 local variable 'alpha' is assigned to but never used
+163   W291 trailing whitespace
+6     W292 no newline at end of file
+592   W293 blank line contains whitespace

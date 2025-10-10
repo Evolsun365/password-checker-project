@@ -1,0 +1,10 @@
+Name            Version ID                  Fix Versions
+--------------- ------- ------------------- ------------
+black           23.12.1 PYSEC-2024-48       24.3.0
+gunicorn        21.2.0  GHSA-w3h3-4rj7-4ph4 22.0.0
+gunicorn        21.2.0  GHSA-hc5x-x2vx-497g 22.0.0
+pip             25.2    GHSA-4xh5-x5gv-qwph
+python-socketio 5.13.0  GHSA-g8c6-8fjj-2r4m 5.14.0
+werkzeug        3.0.1   GHSA-2g68-c3qc-8985 3.0.3
+werkzeug        3.0.1   GHSA-f9vj-2wh5-fj8j 3.0.6
+werkzeug        3.0.1   GHSA-q34m-jh98-gwm2 3.0.6
