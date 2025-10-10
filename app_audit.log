@@ -59,6 +59,7 @@ ERROR: unknown command "audit"
 [DONE] Pipeline completed successfully. 
 2025-10-08 14:23:28,805 - INFO - Password Strength Checker started for user: evolsun
 2025-10-08 14:24:10,604 - INFO - User evolsun logged out. Session duration: 0 minutes
+<<<<<<< HEAD
 2025-10-08 16:24:45,069 - INFO - Password Strength Checker started for user: admin
 2025-10-08 16:25:55,544 - INFO - User admin analyzed password: 5 chars, entropy: 25
 2025-10-08 16:26:01,773 - INFO - User admin analyzed password: 5 chars, entropy: 25
@@ -118,3 +119,5 @@ ERROR: unknown command "audit"
 2025-10-08 18:13:29,171 - INFO - User admin analyzed password: 20 chars, entropy: 140
 2025-10-08 18:13:53,747 - INFO - User admin analyzed password: 20 chars, entropy: 140
 2025-10-08 21:15:28,568 - INFO - Password Strength Checker started for user: admin
+=======
+>>>>>>> c1bae8b7eae4dc0ad8876edf87befbb6e1b0111f

@@ -26,6 +26,7 @@ jobs:
 
       - name: Run Bandit (Static Analysis)
         run: |
+<<<<<<< HEAD
           bandit -r . -f txt -o bandit_report.txt
 
       - name: Run pip-audit (Dependency Scan)
@@ -39,6 +40,21 @@ jobs:
       - name: Run Pytest (Functional Tests)
         run: |
           pytest pytest_security.py -v > pytest_report.txt
+=======
+          bandit -r . -f txt -o bandit_report.txt || true
+
+      - name: Run pip-audit (Dependency Scan)
+        run: |
+          python -m pip_audit > dependency_audit.txt || true
+
+      - name: Run Flake8 (Code Quality)
+        run: |
+          flake8 . --statistics --exclude=venv,__pycache__,.git,*.pyc > flake8_report.txt || true
+
+      - name: Run Pytest (Functional Tests)
+        run: |
+          pytest pytest_security.py -v > pytest_report.txt || true
+>>>>>>> c1bae8b7eae4dc0ad8876edf87befbb6e1b0111f
 
       - name: Upload Reports
         uses: actions/upload-artifact@v4

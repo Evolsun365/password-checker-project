@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core dependencies
 bcrypt
 python-dotenv
@@ -12,3 +13,18 @@ flake8
 # Testing
 pytest
 pytest-cov
+=======
+# Core dependencies
+tkinter
+# For potential web version
+# flask
+# flask-login
+
+# Security testing
+bandit
+safety
+
+# Testing
+pytest
+pytest-cov
+>>>>>>> c1bae8b7eae4dc0ad8876edf87befbb6e1b0111f
