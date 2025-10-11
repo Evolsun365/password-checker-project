@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # password_strength_checker.py - Enhanced UI/UX Version
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
@@ -820,10 +819,7 @@ def launch_main_app(role, username, auth_system=None):
 if __name__ == "__main__":
     root = tk.Tk()
     app = ModernPasswordChecker(root, 'demo', 'demo_user')
-=======
-# password_strength_checker.py - Enhanced UI/UX Version
-import tkinter as tk
-from tkinter import ttk, messagebox, scrolledtext
+    root.mainloop()
 import hashlib
 import re
 import json
@@ -1642,5 +1638,4 @@ def launch_main_app(role, username, auth_system=None):
 if __name__ == "__main__":
     root = tk.Tk()
     app = ModernPasswordChecker(root, 'demo', 'demo_user')
->>>>>>> c1bae8b7eae4dc0ad8876edf87befbb6e1b0111f
-    root.mainloop()
+root.mainloop()

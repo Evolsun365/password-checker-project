@@ -121,3 +121,15 @@ ERROR: unknown command "audit"
 2025-10-08 21:15:28,568 - INFO - Password Strength Checker started for user: admin
 =======
 >>>>>>> c1bae8b7eae4dc0ad8876edf87befbb6e1b0111f
+2025-10-11 21:31:45,706 - INFO - Password Strength Checker started for user: demo_user
+2025-10-11 21:32:07,044 - INFO - User demo_user analyzed password: 9 chars, entropy: 63
+2025-10-11 21:32:13,490 - INFO - User demo_user analyzed password: 16 chars, entropy: 112
+2025-10-11 21:32:15,679 - INFO - User demo_user analyzed password: 16 chars, entropy: 96
+2025-10-11 21:32:16,001 - INFO - User demo_user analyzed password: 16 chars, entropy: 112
+2025-10-11 21:32:16,317 - INFO - User demo_user analyzed password: 16 chars, entropy: 112
+2025-10-11 21:32:16,587 - INFO - User demo_user analyzed password: 16 chars, entropy: 96
+2025-10-11 21:32:18,047 - INFO - User demo_user analyzed password: 16 chars, entropy: 96
+2025-10-11 21:32:22,522 - INFO - User demo_user analyzed password: 32 chars, entropy: 192
+2025-10-11 21:32:34,437 - INFO - User demo_user analyzed password: 35 chars, entropy: 245
+2025-10-11 21:32:43,983 - INFO - User demo_user logged out. Session duration: 0 minutes
+2025-10-11 21:32:44,920 - INFO - Password Strength Checker started for user: demo_user
